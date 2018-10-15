@@ -1,0 +1,30 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>无标题文档</title><link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/book.css" /><link rel="stylesheet" href="__PUBLIC__/css/home/ft-carousel.css" /><script type="text/javascript" src="__PUBLIC__/js/home/jquery.js"></script></head><style type="text/css">	/* 当展现页面的宽度大于1400px时的样式。 */
+	@media screen and (min-width: 1400px){
+		.example {width: 100%;height: 563px;font-size: 40px;text-align: center;background-color: #464576;}
+		.carousel-item{color: #fff;font-family:  Arial Black;}
+		.ft-carousel .carousel-indicators span{width: 33px;height: 7px;margin-left: 13px;}
+		.ft-carousel .carousel-indicators{bottom:48px;}
+	}
+	/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+	@media screen and (min-width: 100px) and (max-width: 1400px) {
+		.example {width: 100%;height: 401px;font-size: 28px;text-align: center;background-color: #464576;}
+		.carousel-item{color: #fff;font-family:  Arial Black;}
+		.ft-carousel .carousel-indicators span{width: 23px;height: 5px;margin-left: 9px;}
+		.ft-carousel .carousel-indicators{bottom:34px;}
+	}
+</style><body><!--页面的头部--><div class="wang"><div class="larger yitechsiflex"><div class="yezlager"><div class="thewenti"></div></div><div class="yezhukaoyou yitechsiflex shangxiaceter"><ul><li>首页</li><li class="gywme">关于我们</li><li>新闻中心</li><li>客户案例</li><li>服务技术</li><li>联系我们</li></ul></div></div></div><!--轮播图--><div class="example"><div class="ft-carousel" id="carousel_1"><ul class="carousel-inner"><li class="carousel-item"><img src="__PUBLIC__/imgs/home/shoyue/homePagelunb.png" /></li><li class="carousel-item"><img src="__PUBLIC__/imgs/home/shoyue/homePagelunb.png" /></li><li class="carousel-item"><img src="__PUBLIC__/imgs/home/shoyue/homePagelunb.png" /></li><li class="carousel-item"><img src="__PUBLIC__/imgs/home/shoyue/homePagelunb.png" /></li><li class="carousel-item"><img src="__PUBLIC__/imgs/home/shoyue/homePagelunb.png" /></li></ul></div></div><!--头部导航开始--><!--头部导航结束--><!--主体main部分开始--><!--中间部分结束--><!--右边部分开始--><!--右边部分结束--><!--服务部分开始--><!--脚部开始--></body></html><script src="__PUBLIC__/js/home/jquery.min.js"></script><script src="__PUBLIC__/js/home/ft-carousel.min.js"></script><script type="text/javascript">	$("#carousel_1").FtCarousel();
+
+	$("#carousel_2").FtCarousel({
+		index: 1,
+		auto: false
+	});
+
+	$("#carousel_3").FtCarousel({
+		index: 0,
+		auto: true,
+		time: 3000,
+		indicators: false,
+		buttons: true
+	});
+</script>

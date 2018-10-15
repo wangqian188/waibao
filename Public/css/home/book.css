@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
+
+body,html{margin: 0px !important;padding: 0px !important;}
+*{margin: :0px;padding: 0px;}
+
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+.wang{display: flex;justify-content: center;align-items: center;height: 130px;}
+.larger{width: 1200px;justify-content: space-between;}
+.yezlager{width: 256px;}
+.yiyechuanq{margin-left: 80px;}
+.yiyechuanqimg{display: flex;height: 36px;width: 42px;background:url(../../imgs/home/shoyue/shoueylog.png) no-repeat;background-size: 100% auto;}
+.yechwezi{margin-left: 12px;font-size: 20px;color: #3f53bd;}
+.yitechsiflex{display: flex;}
+.shangxiaceter{align-items: center;}
+.thewenti{width: 204px;height: 67px;margin-left: 68px;color: #39393a;background:url(../../imgs/home/shoyue/homePageLogo.png) no-repeat;background-size: 100% auto;}
+.yezhukaoyou{width: 694px;margin-right: 60px;}
+.yezhukaoyou ul{display: flex;}
+.yezhukaoyou ul li{list-style:none;font-size: 18px;color: #4c4c4c;font-weight: 600;margin-left: 42px;}
+.yezhukaoyou ul li:first-child{margin-left: 0px;margin-right: 64px;}
+.gywme{margin-left: 0px !important;}
+.yezhufonweigt{font-weight: 600;}
+}
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+.wang{display: flex;justify-content: center;align-items: center;height: 92px;}
+.larger{width: 852px;justify-content: space-between;}
+.yezlager{width: 181px;}
+.yiyechuanq{margin-left: 56px;}
+.yiyechuanqimg{display: flex;height: 25px;width: 29px;background:url(../../imgs/home/shoyue/shoueylog.png) no-repeat;background-size: 100% auto;}
+.yechwezi{margin-left: 8px;font-size: 14px;color: #3f53bd;}
+.yitechsiflex{display: flex;}
+.shangxiaceter{align-items: center;}
+.thewenti{width: 144px;height: 47px;margin-left: 48px;color: #39393a;background:url(../../imgs/home/shoyue/homePageLogo.png) no-repeat;background-size: 100% auto;}
+.yezhukaoyou{width: 492px;margin-right: 42px;}
+.yezhukaoyou ul{display: flex;}
+.yezhukaoyou ul li{list-style:none;font-size: 12px;color: #4c4c4c;font-weight: 600;margin-left: 29px;}
+.yezhukaoyou ul li:first-child{margin-left: 0px;margin-right: 45px;}
+.gywme{margin-left: 0px !important;}
+.yezhufonweigt{font-weight: 600;}
+
+}
