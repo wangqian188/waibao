@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.today{margin-top: 52px;background-color: #298af7;padding: 45px 33px;}
+	.ywgongsinew{font-size: 24px;color: #ffffff;line-height: 30px;}
+	.ywgongsinew span{font-weight: 600;font-size: 24px;}
+	.necetlanse{height: 13px;background-color: #0030ff;}
+	.yiwesswg{margin-top: 70px;}
+	.imgyesss{width: 578px;height: 259px;background:url(../../imgs/home/newcenter/wjyesss.png) no-repeat;background-size: 100% auto;}
+	.newcenmarle{margin-left: 46px;}
+	.xghnw{font-size: 24px;color: #181818;height: 36px;}
+	.liaangnwe{font-size: 12px;color: #181818;height: 39px;}
+	.nhzbnew{width: 564px;font-size: 14px;color: #696969;line-height: 24px;}
+	.mwctzbio{margin-top: 19px;}
+	.nwctzb{width: 16px;height: 16px;background:url(../../imgs/home/newcenter/wjzb.png) no-repeat;background-size: 100% auto;}
+	.shjriq{font-size: 14px;color: #b8b8b8;margin-left: 10px;}
+	.shjriq span{font-size: 14px;}
+	.ermalnwct{margin-left: 22px;}
+	.nwctxxx{width: 16px;height: 16px;background:url(../../imgs/home/newcenter/wjnwxx.png) no-repeat;background-size: 100% auto;}
+	.nwctxl{width: 16px;height: 16px;background:url(../../imgs/home/newcenter/wjxlnwt.png) no-repeat;background-size: 100% auto;}
+	.xinwentptop{margin-top: 37px;}
+	.nwctremwuimg{margin-left: 15px;width: 596px;height: 259px;background:url(../../imgs/home/newcenter/renwuwjnwct.png) no-repeat;background-size: 100% auto;}
+	.jsxdnwctleft{margin-left: 26px;}
+	.feinwcttop{margin-top: 112px;}
+	.erfeiwtop{margin-top: 96px;}
+	/* 分页器 */
+	.fenxeqiandouring{width: 23px;height: 18px;background:url(../../imgs/home/aboutus/fenxiewjring.png) no-repeat;background-size: 100% auto;}
+	.fenxeqianwaice{height: 30px;}
+	.fenxeqiandouzuob{width: 23px;height: 18px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
+	
+	.htxxnwcttop{margin-top: 127px;background-color: #10337a;}
+	.heyxinbancmwct{background-color: #5d79f1;}
+	.qqbnwct{font-size: 65px;color: #ffffff;}
+	.gjtnwct{font-size: 16px;color: #ffffff;}
+	.totalnwct{font-size: 24px;color: #ffffff;}
+	.anfqdsjcs{margin-top: 70px;padding: 0px 23px;}
+	.diannimg{width: 290px;height: 194px;background:url(../../imgs/home/newcenter/dianwjnimg.png) no-repeat;background-size: 100% auto;}
+	.hgzxmmaleg{margin-left: 61px;}
+	.dsjpd{font-size: 24px;color: #181818;line-height: 40px;}
+	.diantiaocs{width: 91px;background-color: #3e5ba4;height: 2px;}
+	.dianlyigestiaocs{width: 185px;background-color: #97a9f6;height: 2px;}
+	.smatripc{margin-top: 15px;font-size: 14px;color: #696969;line-height: 24px;width: 560px;}
+	.shizmartoper{margin-top: 13px;}
+	.xxmartoper{margin-top: 23px;}
+	.linherjaang{height: 26px;}
+	.sermartopwac{margin-top: 53px;}
+	.dzy{background:url(../../imgs/home/newcenter/dzy.png) no-repeat;}
+	.hkws{background:url(../../imgs/home/newcenter/hkwswj.png) no-repeat;}
+	.dsj{background:url(../../imgs/home/newcenter/wjdsj.png) no-repeat;}
+	.rgzn{background:url(../../imgs/home/newcenter/rgznwj.png) no-repeat;}
+	.newctbotmartop{margin-top: 127px;}
+	
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.today{margin-top: 36px;background-color: #298af7;padding: 31px 23px;}
+	.ywgongsinew{font-size: 17px;color: #ffffff;line-height: 21px;}
+	.ywgongsinew span{font-weight: 600;font-size: 17px;}
+	.necetlanse{height: 9px;background-color: #0030ff;}
+	.yiwesswg{margin-top: 49px;}
+	.imgyesss{width: 410px;height: 183px;background:url(../../imgs/home/newcenter/wjyesss.png) no-repeat;background-size: 100% auto;}
+	.newcenmarle{margin-left: 32px;}
+	.xghnw{font-size: 17px;color: #181818;height: 25px;}
+	.liaangnwe{font-size: 8px;color: #181818;height: 27px;}
+	.nhzbnew{width: 400px;font-size: 10px;color: #696969;line-height: 17px;}
+	.mwctzbio{margin-top: 13px;}
+	.nwctzb{width: 11px;height: 11px;background:url(../../imgs/home/newcenter/wjzb.png) no-repeat;background-size: 100% auto;}
+	.shjriq{font-size: 10px;color: #b8b8b8;margin-left: 7px;}
+	.shjriq span{font-size: 10px;}
+	.ermalnwct{margin-left: 15px;}
+	.nwctxxx{width: 11px;height: 11px;background:url(../../imgs/home/newcenter/wjnwxx.png) no-repeat;background-size: 100% auto;}
+	.nwctxl{width: 11px;height: 11px;background:url(../../imgs/home/newcenter/wjxlnwt.png) no-repeat;background-size: 100% auto;}
+	.xinwentptop{margin-top: 26px;}
+	.nwctremwuimg{margin-left: 10px;width: 423px;height: 183px;background:url(../../imgs/home/newcenter/renwuwjnwct.png) no-repeat;background-size: 100% auto;}
+	.jsxdnwctleft{margin-left: 18px;}
+	.feinwcttop{margin-top: 79px;}
+	.erfeiwtop{margin-top: 68px;}
+	/* 分页器 */
+	.fenxeqiandouring{width: 16px;height: 12px;background:url(../../imgs/home/aboutus/fenxiewjring.png) no-repeat;background-size: 100% auto;}
+	.fenxeqianwaice{height: 21px;}
+	.fenxeqiandouzuob{width: 16px;height: 12px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
+	
+	.htxxnwcttop{margin-top: 90px;background-color: #10337a;}
+	.heyxinbancmwct{background-color: #5d79f1;}
+	.qqbnwct{font-size: 46px;color: #ffffff;}
+	.gjtnwct{font-size: 11px;color: #ffffff;}
+	.totalnwct{font-size: 17px;color: #ffffff;}
+	.anfqdsjcs{margin-top: 49px;padding: 0px 16px;}
+	.diannimg{width: 205px;height: 137px;background:url(../../imgs/home/newcenter/dianwjnimg.png) no-repeat;background-size: 100% auto;}
+	.hgzxmmaleg{margin-left: 43px;}
+	.dsjpd{font-size: 17px;color: #181818;line-height: 28px;}
+	.diantiaocs{width: 45px;background-color: #3e5ba4;height: 2px;}
+	.dianlyigestiaocs{width: 131px;background-color: #97a9f6;height: 2px;}
+	.smatripc{margin-top: 10px;font-size: 10px;color: #696969;line-height: 17px;width: 397px;}
+	.shizmartoper{margin-top: 9px;}
+	.xxmartoper{margin-top: 16px;}
+	.linherjaang{height: 18px;}
+	.sermartopwac{margin-top: 37px;}
+	.dzy{background:url(../../imgs/home/newcenter/dzy.png) no-repeat;}
+	.hkws{background:url(../../imgs/home/newcenter/hkwswj.png) no-repeat;}
+	.dsj{background:url(../../imgs/home/newcenter/wjdsj.png) no-repeat;}
+	.rgzn{background:url(../../imgs/home/newcenter/rgznwj.png) no-repeat;}
+	.newctbotmartop{margin-top: 90px;}
+}
+
+
+

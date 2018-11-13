@@ -1,0 +1,48 @@
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;box-sizing: border-box;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.detailsmartop{margin-top: 172px;}
+	.hyafdtimg{width: 238px;height: 62px;background:url(../../imgs/home/details/wjyhanimg.png) no-repeat;background-size: 100% auto;}
+	.icbcmartop{margin-top: 79px;}
+	.ICBCimgcss{width: 670px;height: 480px;background:url(../../imgs/home/details/icbc.png) no-repeat;background-size: 100% auto;}
+	.duijxtmar{margin-left: 23px;width: 451px;}
+	.duijxtmar div{font-size: 18px;color: #999999;}
+	.xiaobannner{font-size: 18px;color: #3b3b3b;margin-top: 42px;}
+	.largerbannner{font-size: 42px;color: #3b3b3b;}
+	.banhyan{width: 291px;}
+	.gsyzyleft{margin-left: 79px;}
+	.zdtianzh{margin-top: 10px;}
+	.atmzidongimg{margin-left: 58px;width: 615px;height: 380px;background:url(../../imgs/home/details/shinyhimg.png) no-repeat;background-size: 100% auto;}
+	.sewaimokk{border: 3px solid #8f622b;width: 292px;height: 363px;top:344px;left: 506px;}
+	.usbottommartopdeta{margin-top: 195px;}
+	.jiehzongjiant{margin-top: 41px;}
+	
+	
+	
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.detailsmartop{margin-top: 122px;}
+	.hyafdtimg{width: 168px;height: 44px;background:url(../../imgs/home/details/wjyhanimg.png) no-repeat;background-size: 100% auto;}
+	.icbcmartop{margin-top: 56px;}
+	.ICBCimgcss{width: 475px;height: 340px;background:url(../../imgs/home/details/icbc.png) no-repeat;background-size: 100% auto;}
+	.duijxtmar{margin-left: 16px;width: 320px;}
+	.duijxtmar div{font-size: 12px;color: #999999;}
+	.xiaobannner{font-size: 12px;color: #3b3b3b;margin-top: 29px;}
+	.largerbannner{font-size: 29px;color: #3b3b3b;}
+	.banhyan{width: 206px;}
+	.gsyzyleft{margin-left: 56px;}
+	.zdtianzh{margin-top: 7px;}
+	.atmzidongimg{margin-left: 41px;width: 436px;height: 269px;background:url(../../imgs/home/details/shinyhimg.png) no-repeat;background-size: 100% auto;}
+	.sewaimokk{border: 2px solid #8f622b;width: 119px;height: 257px;top:244px;left: 359px;}
+	.usbottommartopdeta{margin-top: 138px;}
+	.jiehzongjiant{margin-top: 29px;}
+}
+.textcetyet{text-align: center;}
+.yhafcssjustend{justify-content: flex-end;}
+.sgxcdkcseeimg{background:url(../../imgs/home/details/sgxwjdkcsse.png) no-repeat;background-size: 100% auto;}
+.jvfalxxsimg{background:url(../../imgs/home/details/jvtfawjxsj.png) no-repeat;background-size: 100% auto;}
+
+
+

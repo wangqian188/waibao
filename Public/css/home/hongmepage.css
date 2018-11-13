@@ -7,9 +7,124 @@ body,html{margin: 0px !important;padding: 0px !important;}
 
 /* 当展现页面的宽度大于1400px时的样式。 */
 @media screen and (min-width: 1400px){
-
+	.gsmartop{margin-top: 63px;}
+	.gongsyes{height: 72px;width: 152px;background:url(../../imgs/home/shoyue/gsjs.png) no-repeat;background-size: 100% auto;}
+	.gywidth{width: 1200px;}
+	.gsgzlcmartop{margin-top: 101px;}
+	.qyimgcs{margin-left: 47px;}
+	.dellich{margin-left: 82px;width: 372px;height: 450px;}
+	.fzlc{font-size: 18px;color: #3a3a3a;}
+	.heyechq{font-size: 14px;color: #4a4a49;line-height: 28px;margin-top: 41px;}
+	.hyxingwe{margin-top: 96px;height: 61px;width: 152px;background:url(../../imgs/home/shoyue/heyxinw.png) no-repeat;background-size: 100% auto;}
+	.vivo{padding: 67px 47px 104px;}
+	.longiyo{width: 40px;height: 122px;background-color: #ffffff;position: relative;}
+	.lyxiak{width: 37px;height: 37px;background-color: #ffffff;border: 1px solid #41b9fd;box-shadow:2px 2px 2px #def3ff;font-size: 16px;color: #07a3fd;}
+	.zuoshaj{width: 7px; height: 7px;background-color: #07a3fd;box-shadow:1px 1px 1px #def3ff;position: absolute;top: -4px;left: -3px;}
+	.vivozit{margin-left: 23px;width: 445px;height: 117px;border-bottom: 4px solid #f2f2f2;}
+	.vvdata{font-size: 12px;color: #07a3fd;height: 12px;width: 100%;}
+	.nxttt{font-size: 14px;color: #07a3fd;height: 14px;width: 100%;}
+	.lyebxx{font-size: 12px;color: #8b8b8b;height: 76px;width: 100%;margin-top: 24px;}
+	.ercssvivozit{margin-left: 23px;width: 445px;height: 117px;}
+	.sanmartop{margin-top: 55px;}
+	.sucwwcss{height: 61px;width: 152px;background:url(../../imgs/home/shoyue/susces.png) no-repeat;background-size: 100% auto;}
+	.chananeryiy{margin-top: 25px;height: 301px;width: 1002px;background:url(../../imgs/home/shoyue/imgchanneyy.png) no-repeat;background-size: 100% auto;}
+	.ctertive{margin-top: 15px;height: 301px;width: 496px;background:url(../../imgs/home/shoyue/creatine.png) no-repeat;background-size: 100% auto;}
+	.jrzhoncet{margin-top: 15px;margin-left: 10px;height: 301px;width: 497px;background:url(../../imgs/home/shoyue/jincter.png) no-repeat;background-size: 100% auto;}
+	.ingyise{margin-top: 15px;height: 301px;width: 496px;background:url(../../imgs/home/shoyue/imgssyice.png) no-repeat;background-size: 100% auto;}
+	.huisecerten{margin-top: 15px;margin-left: 10px;height: 301px;width: 497px;background:url(../../imgs/home/shoyue/verhuose.png) no-repeat;background-size: 100% auto;}
+	.yechdizhedejiac{margin-top: 64px;width: 995px;font-size: 14px;color: #4a4a49;line-height: 28px;text-align: center}
+	.zijidandediad{font-size: 14px;color: #4a4a49;margin-top: 18px;}
+	.wenwenmartio{margin-top: 18px;}
+	.chasegd{margin-top: 22px;height: 40px;width: 107px;border: 1px solid #030303;color: #030303;font-size: 20px;border-radius: 5px;}
+	.jishugdui{margin-top: 109px;height: 72px;width: 153px;background:url(../../imgs/home/shoyue/jimgihsudui.png) no-repeat;background-size: 100% auto;}
+	.jishmartop{margin-top: 54px;}
+	.lijehui{width: 205px;height: 315px;}
+	.dingbu{width: 116px;height: 6px;background-color: #884dff;}
+	.touximg{margin-top: 22px;height: 115px;width: 115px;background:url(../../imgs/home/shoyue/nanimgtx.png) no-repeat;background-size: 100% auto;}
+	.lyhj{margin-top: 15px;width: 42px;height: 14px;font-size: 14px;color: #4f4f4f;}
+	.gcs{margin-top: 9px;width: 36px;height: 13px;font-size: 12px;color: #4f4f4f;-moz-transform:scale(0.8);-webkit-transform:scale(0.8);-o-transform:scale(0.8);}
+	.husexian{height: 15px;}
+	.zhunye{height: 14px;width: 56px;font-size: 14px;color: #549bf8;margin-top: 10px;}
+	.secjgsba{background-color: #884dff;bottom: 0px;height: 44px;width: 100%;line-height: 44px;font-size: 18px;color: #ffffff;}
+	.waimaleft{margin-left: 45px;border: 1px solid #a5a5a5;}
+	.yigedivmuhd{box-shadow:0px 0px 13px #94c4fb;}
+	.hezuoqiye{margin-top: 130px;height: 61px;width: 160px;background:url(../../imgs/home/shoyue/heuozconfm.png) no-repeat;background-size: 100% auto;}
+	.kubabo{border: 1xp solid red;width: 174px;height: 79px;background:url(../../imgs/home/shoyue/kububo.png) no-repeat;background-size: 100% auto;}
+	.spanmaleft{margin: 0px 0px 0px 80px;}
+	.erspanmaleft span{margin: 63px 0px 0px 80px;}
+	.sanspanmaleft span{margin: 63px 0px 0px 80px;}
+	.gywomen{margin-top: 85px;height: 61px;width: 151px;background:url(../../imgs/home/shoyue/imggywomen.png) no-repeat;background-size: 100% auto;}
+	.anfkylij{font-size: 12px;color: #5c5c5c;}
+	.martipanfkli{margin-top: 59px;}
+	.inglisstjie{margin-top: 12px;}
+	.diandiamrtop{margin-top: 21px;}
+	.ywnemartop{margin-top: 54px;}
 }
 /* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
 @media screen and (min-width: 100px) and (max-width: 1400px) {
-
+	.gsmartop{margin-top: 45px;}
+	.gongsyes{height: 51px;width: 108px;background:url(../../imgs/home/shoyue/gsjs.png) no-repeat;background-size: 100% auto;}
+	.gywidth{width: 852px;}
+	.gsgzlcmartop{margin-top: 72px;}
+	.qyimgcs{margin-left: 47px;}
+	.dellich{margin-left: 58px;width: 264px;height: 319px;}
+	.fzlc{font-size: 12px;color: #3a3a3a;}
+	.heyechq{font-size: 10px;color: #4a4a49;line-height: 19px;margin-top: 29px;}
+	.hyxingwe{margin-top: 68px;height: 43px;width: 108px;background:url(../../imgs/home/shoyue/heyxinw.png) no-repeat;background-size: 100% auto;}
+	.vivo{padding: 47px 33px 73px;}
+	.longiyo{width: 28px;height: 99px;background-color: #ffffff;position: relative;}
+	.lyxiak{width: 26px;height: 26px;background-color: #ffffff;border: 1px solid #41b9fd;box-shadow:2px 2px 2px #def3ff;font-size: 11px;color: #07a3fd;}
+	.zuoshaj{width: 5px; height: 5px;background-color: #07a3fd;box-shadow:1px 1px 1px #def3ff;position: absolute;top: -3px;left: -2px;}
+	.vivozit{margin-left: 16px;width: 315px;height: 96px;border-bottom: 4px solid #f2f2f2;}
+	.vvdata{font-size: 12px;color: #07a3fd;height: 12px;width: 100%;}
+	.nxttt{font-size: 14px;color: #07a3fd;height: 14px;width: 330px;}
+	.lyebxx{font-size: 12px;color: #8b8b8b;height: 54px;width: 100%;margin-top: 17px;}
+	.ercssvivozit{margin-left: 16px;width: 315px;height: 96px;}
+	.sanmartop{margin-top: 39px;}
+	.sucwwcss{height: 43px;width: 108px;background:url(../../imgs/home/shoyue/susces.png) no-repeat;background-size: 100% auto;}
+	.chananeryiy{margin-top: 17px;height: 213px;width: 711px;background:url(../../imgs/home/shoyue/imgchanneyy.png) no-repeat;background-size: 100% auto;}
+	.ctertive{margin-top: 10px;height: 213px;width: 352px;background:url(../../imgs/home/shoyue/creatine.png) no-repeat;background-size: 100% auto;}
+	.jrzhoncet{margin-top: 10px;margin-left: 7px;height: 213px;width: 352px;background:url(../../imgs/home/shoyue/jincter.png) no-repeat;background-size: 100% auto;}
+	.ingyise{margin-top: 10px;height: 213px;width: 352px;background:url(../../imgs/home/shoyue/imgssyice.png) no-repeat;background-size: 100% auto;}
+	.huisecerten{margin-top: 10px;margin-left: 7px;height: 213px;width: 352px;background:url(../../imgs/home/shoyue/verhuose.png) no-repeat;background-size: 100% auto;}
+	.yechdizhedejiac{margin-top: 45px;width: 706px;font-size: 12px;color: #4a4a49;line-height: 19px;text-align: center;}
+	.zijidandediad{font-size: 12px;color: #4a4a49;margin-top: 12px;}
+	.wenwenmartio{margin-top: 12px;}
+	.chasegd{margin-top: 15px;height: 28px;width: 75px;border: 1px solid #030303;color: #030303;font-size: 14px;border-radius: 5px;}
+	.jishugdui{margin-top: 77px;height: 51px;width: 108px;background:url(../../imgs/home/shoyue/jimgihsudui.png) no-repeat;background-size: 100% auto;}
+	.jishmartop{margin-top: 38px;}
+	.lijehui{width: 145px;height: 223px;}
+	.dingbu{width: 82px;height: 4px;background-color: #884dff;}
+	.touximg{margin-top: 15px;height: 81px;width: 81px;background:url(../../imgs/home/shoyue/nanimgtx.png) no-repeat;background-size: 100% auto;}
+	.lyhj{margin-top: 10px;width: 38px;height: 12px;font-size: 12px;color: #4f4f4f;}
+	.gcs{margin-top: 6px;width: 38px;height: 13px;font-size: 12px;color: #4f4f4f;-moz-transform:scale(0.8);-webkit-transform:scale(0.8);-o-transform:scale(0.8);}
+	.husexian{height: 10px;}
+	.zhunye{height: 12px;width: 48px;font-size: 12px;color: #549bf8;margin-top: 7px;}
+	.secjgsba{background-color: #884dff;bottom: 0px;height: 31px;width: 100%;line-height: 31px;font-size: 12px;color: #ffffff;}
+	.waimaleft{margin-left: 31px;border: 1px solid #a5a5a5;}
+	.yigedivmuhd{box-shadow:0px 0px 9px #94c4fb;}
+	.hezuoqiye{margin-top: 92px;height: 43px;width: 113px;background:url(../../imgs/home/shoyue/heuozconfm.png) no-repeat;background-size: 100% auto;}
+	.kubabo{border: 1xp solid red;width: 123px;height: 56px;background:url(../../imgs/home/shoyue/kububo.png) no-repeat;background-size: 100% auto;}
+	.spanmaleft{margin: 0px 0px 0px 56px;}
+	.erspanmaleft span{margin: 44px 0px 0px 56px;}
+	.sanspanmaleft span{margin: 44px 0px 0px 56px;}
+	.gywomen{margin-top: 60px;height: 43px;width: 107px;background:url(../../imgs/home/shoyue/imggywomen.png) no-repeat;background-size: 100% auto;}
+	.anfkylij{font-size: 8px;color: #5c5c5c;}
+	.martipanfkli{margin-top: 41px;}
+	.inglisstjie{margin-top: 8px;}
+	.diandiamrtop{margin-top: 14px;}
+	.ywnemartop{margin-top: 38px;}
 }
+.wanglawge{display: flex;justify-content: center;align-items: center;}
+.shybanmccos{background-color: #ffffff;}
+.lerbacoe{border: 1px solid #909090;color: #686868;box-shadow:2px 2px 2px #cecece;}
+.sjjtime{color: #8b8b8b;}
+.eryscss{color: #656565;}
+.shoyuyefonw{font-weight: 600;}
+.waimaleft:first-child{margin-left: 0px;}
+.ergebacks{background-color: #15c9ca;}
+.sangebacks{background-color: #298af7;}
+.sigebacks{background-color: #f07276;}
+.spanmaleft:first-child{margin: 0px;}
+.erspanmaleft span:first-child{margin-left:0px;}
+.sanspanmaleft span:first-child{margin-left:0px;}

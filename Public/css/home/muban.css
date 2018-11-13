@@ -1,12 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 *{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
-/*快捷通栏*/
-#shortcut{
-	background: url("/shops/demo/Public/imgs/home/bg_shortcut.gif") repeat-x 0 -134px;
-    height:30px;width:100%;overflow:hidden;
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	
 }
 
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	
+}
 
 
 

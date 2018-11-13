@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
+
+body,html{margin: 0px !important;padding: 0px !important;}
+*{margin: :0px;padding: 0px;}
+
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.gywidth{width: 1200px;}
+	.bottomimgdi{height: 276px;width: 100%;background:url(../../imgs/home/shoyue/buttomditu.png) no-repeat;background-size: 100% auto;z-index: 12;}
+	.waibottpm{height: 549px;width: 100%;background-color: #2691fd;top: 146px;}
+	.martoplixiwm{margin-top: 158px;margin-left: 169px;font-size: 14px;color: #373f4c;}
+	.waimixingmig{width: 953px;height: 113px;}
+	.bottomname{width: 50px;height: 41px;font-size: 14px;color: #373f4c;}
+	.botminput{width: 273px;height: 41px;}
+	.botminput input{width: 100%;height: 41px;font-size: 14px;color: #373f4c;}
+	.magintopphone{margin-top: 27px;font-size: 14px;color: #373f4c;}
+	.martpname{margin-top: 38px;}
+	.csstextarea{width: 572px;height: 111px;font-size: 14px;color: #373f4c;line-height: 24px;}
+	.liuyacss{width: 50px;height: 24px;font-size: 14px;color: #373f4c;}
+	.jiantoucss{width: 23px;height: 18px;font-size: 18px;background:url(../../imgs/home/shoyue/jaintou.png) no-repeat;background-size: 100% auto;top: 85px;right: 20px;}
+	.botologcss{margin-top: 38px;width: 204px;height: 67px;background:url(../../imgs/home/shoyue/imgbottomlog.png) no-repeat;background-size: 100% auto;}
+	.coprigcss{margin-top: 25px;color: #4a4a49;}
+	.shangjianotu{margin-top: 47px;width: 17px;height: 9px;background:url(../../imgs/home/shoyue/imgbottsahamg.png) no-repeat;background-size: 100% auto;}
+	.bottommartop{margin-top: 56px;height: 695px;}
+	.abusmartoplixiwm{margin-top: 35px;margin-left: 72px;}
+	.diabootnhtp{width: 32px;height: 32px;background:url(../../imgs/home/aboutus/igmbotmdianh.png) no-repeat;background-size: 100% auto;}
+	.botmdianshuzi{height: 32px;line-height: 32px;margin-left: 14px;font-size: 14px;color: #ebf3ff;}
+	.igmbotdizhi{width: 32px;height: 32px;background:url(../../imgs/home/aboutus/igmbotdizhi.png) no-repeat;background-size: 100% auto;}
+	.igmbotaite{width: 32px;height: 32px;background:url(../../imgs/home/aboutus/igmbotaite.png) no-repeat;background-size: 100% auto;}
+	.ibgbotwaiceimg{margin-top: 13px;}
+	.ingcetemartuo{margin-top: 122px;}
+	.botmlxwomen{margin-top: 89px;margin-left: 157px;}
+	.botmlxwomenus{font-size: 20px;color: #ffffff;}
+	.uslxwomendiandia{margin-top: 11px;margin-left: 10px;width: 39px;height: 9px;background:url(../../imgs/home/aboutus/uslxwmne.png) no-repeat;background-size: 100% auto;}
+	.usthernew{font-size: 20px;color: #ffffff;margin-top: 8px;}
+	.ushsxian{border-top: 1px solid #f8ff44;width: 105px;margin-top: 8px;}
+	.userweima{margin-top: 14px;margin-left: 166px;width: 125px;height: 125px;background:url(../../imgs/home/aboutus/userweoma.png) no-repeat;background-size: 100% auto;}
+	.usshouce{margin-top: 15px;margin-left: 161px;}
+	.botmussc{width: 40px;height: 40px;background:url(../../imgs/home/aboutus/imgussc.png) no-repeat;background-size: 100% auto;}
+	.botmuwebo{margin-left: 6px;width: 40px;height: 40px;background:url(../../imgs/home/aboutus/imguweibo.png) no-repeat;background-size: 100% auto;}
+	.botmuwexin{margin-left: 6px;width: 40px;height: 40px;background:url(../../imgs/home/aboutus/imguweixn.png) no-repeat;background-size: 100% auto;}
+	.uswomenxiang{border-top: 3px solid #227fdd;margin-top: 24px;}
+	.uswomwaibottpm{height: 404px;width: 100%;background-color: #2691fd;top: 146px;}
+	.usbottommartop{margin-top: 56px;height: 404px;}
+	.consusbottomwidth{height: 366px;}
+	.joinsbotm{width: 866px;height: 361px;}
+	.balasbotom{width: 866px;height: 17px;background-color: #298af7;}
+	.constustopbotm{top:269px;}
+	.senbancco{background-color: #ffffff;}
+	.martopju{padding-top: 75px;}
+	.leovelef{margin-left: 43px;}
+	.wenzijoin{font-size: 32px;color: #5b5b5b;line-height: 34px;}
+	.qlxnd{font-size: 20px;color: #808080;margin-top: 118px;}
+	.marlwag{border: 1px solid #a0a0a0;width: 458px;height: 257px;}
+	.maleftwang{margin-left: 96px;}
+	.pname{width: 100%;height: 74px;border-bottom: 1px solid #a0a0a0;}
+	.pname div{width: 50%;height: 100%;}
+	.phonecss{border-right: 1px solid #a0a0a0;font-size: 20px;color: #808080;}
+	.phonecss input{width: 129px;border-bottom:1px solid #a0a0a0;height: 20px;margin-left: 10px;outline:none;font-size: 20px;}
+	.palses{padding: 18px 10px;}
+	.palses textarea{width: 438px;height: 148px;resize: none;outline:none;font-size: 16px;color: #737373;}
+	.sendcss{border: 1px solid #a0a0a0;width: 128px;height: 32px;line-height: 32px;text-align: center;background-color: #298af7;color: #d7e5fd;border-radius: 20px;font-size: 17px;font-weight: 600;top: 241px;left: 308px;}
+	
+}
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.gywidth{width: 852px;}
+	.bottomimgdi{height: 195px;width: 100%;background:url(../../imgs/home/shoyue/buttomditu.png) no-repeat;background-size: 100% auto;z-index: 12;}
+	.waibottpm{height: 389px;width: 100%;background-color: #2691fd;top: 103px;}
+	.martoplixiwm{margin-top: 112px;margin-left: 119px;font-size: 10px;color: #373f4c;}
+	.waimixingmig{width: 676px;height: 80px;}
+	.bottomname{width: 35px;height: 29px;font-size: 10px;color: #373f4c;}
+	.botminput{width: 193px;height: 29px;}
+	.botminput input{width: 100%;height: 29px;font-size: 10px;color: #373f4c;}
+	.magintopphone{margin-top: 19px;font-size: 10px;color: #373f4c;}
+	.martpname{margin-top: 26px;}
+	.csstextarea{width: 406px;height: 79px;font-size: 10px;color: #373f4c;line-height: 17px;}
+	.liuyacss{width: 35px;height: 17px;font-size: 10px;color: #373f4c;}
+	.jiantoucss{width: 16px;height: 12px;font-size: 12px;background:url(../../imgs/home/shoyue/jaintou.png) no-repeat;background-size: 100% auto;top: 60px;right: 14px;}
+	.botologcss{margin-top: 26px;width: 144px;height: 47px;background:url(../../imgs/home/shoyue/imgbottomlog.png) no-repeat;background-size: 100% auto;}
+	.coprigcss{margin-top: 17px;color: #4a4a49;}
+	.shangjianotu{margin-top: 33px;width: 12px;height: 6px;background:url(../../imgs/home/shoyue/imgbottsahamg.png) no-repeat;background-size: 100% auto;}
+	.bottommartop{margin-top: 39px;height: 493px;}
+	.abusmartoplixiwm{margin-top: 24px;margin-left: 51px;}
+	.diabootnhtp{width: 22px;height: 22px;background:url(../../imgs/home/aboutus/igmbotmdianh.png) no-repeat;background-size: 100% auto;}
+	.botmdianshuzi{height: 22px;line-height: 22px;margin-left: 12px;font-size: 12px;color: #ebf3ff;}
+	.igmbotdizhi{width: 22px;height: 22px;background:url(../../imgs/home/aboutus/igmbotdizhi.png) no-repeat;background-size: 100% auto;}
+	.igmbotaite{width: 22px;height: 22px;background:url(../../imgs/home/aboutus/igmbotaite.png) no-repeat;background-size: 100% auto;}
+	.ibgbotwaiceimg{margin-top: 9px;}
+	.ingcetemartuo{margin-top: 86px;}
+	.botmlxwomen{margin-top: 63px;margin-left: 111px;}
+	.botmlxwomenus{font-size: 14px;color: #ffffff;}
+	.uslxwomendiandia{margin-top: 7px;margin-left: 7px;width: 27px;height: 6px;background:url(../../imgs/home/aboutus/uslxwmne.png) no-repeat;background-size: 100% auto;}
+	.usthernew{font-size: 14px;color: #ffffff;margin-top: 6px;}
+	.ushsxian{border-top: 1px solid #f8ff44;width: 74px;margin-top: 5px;}
+	.userweima{margin-top: 10px;margin-left: 117px;width: 88px;height: 88px;background:url(../../imgs/home/aboutus/userweoma.png) no-repeat;background-size: 100% auto;}
+	.usshouce{margin-top: 10px;margin-left: 114px;}
+	.botmussc{width: 28px;height: 28px;background:url(../../imgs/home/aboutus/imgussc.png) no-repeat;background-size: 100% auto;}
+	.botmuwebo{margin-left: 4px;width: 28px;height: 28px;background:url(../../imgs/home/aboutus/imguweibo.png) no-repeat;background-size: 100% auto;}
+	.botmuwexin{margin-left: 4px;width: 28px;height: 28px;background:url(../../imgs/home/aboutus/imguweixn.png) no-repeat;background-size: 100% auto;}
+	.uswomenxiang{border-top: 2px solid #227fdd;margin-top: 17px;}
+	.uswomwaibottpm{height: 286px;width: 100%;background-color: #2691fd;top: 103px;}
+	.usbottommartop{margin-top: 39px;height: 286px;}
+	.consusbottomwidth{height: 259px;}
+	.joinsbotm{width: 614px;height: 256px;}
+	.balasbotom{width: 614px;height: 12px;background-color: #298af7;}
+	.constustopbotm{top:190px;}
+	.senbancco{background-color: #ffffff;}
+	.martopju{padding-top: 53px;}
+	.leovelef{margin-left: 30px;}
+	.wenzijoin{font-size: 22px;color: #5b5b5b;line-height: 24px;}
+	.qlxnd{font-size: 14px;color: #808080;margin-top: 83px;}
+	.marlwag{border: 1px solid #a0a0a0;width: 325px;height: 182px;}
+	.maleftwang{margin-left: 68px;}
+	.pname{width: 100%;height: 52px;border-bottom: 1px solid #a0a0a0;}
+	.pname div{width: 50%;height: 100%;}
+	.phonecss{border-right: 1px solid #a0a0a0;font-size: 14px;color: #808080;}
+	.phonecss input{width: 91px;border-bottom:1px solid #a0a0a0;height: 14px;margin-left: 7px;outline:none;font-size: 14px;}
+	.palses{padding: 12px 7px;}
+	.palses textarea{width: 310px;height: 105px;resize: none;outline:none;font-size: 11px;color: #737373;}
+	.sendcss{border: 1px solid #a0a0a0;width: 90px;height: 22px;line-height: 22px;text-align: center;background-color: #298af7;color: #d7e5fd;border-radius: 14px;font-size: 12px;font-weight: 600;top: 171px;left: 218px;}
+	
+}
+.wanglawge{display: flex;justify-content: center;align-items: center;}
+.hsoyyedispa{display: flex;}
+.bottomdisjust{justify-content: center;}
+.bottomdisalie{align-items: center;}
+.bottombterw{justify-content: space-between;}
+.bottomposrela{position: relative;}
+.bottomposabso{position: absolute;}
+.lixwomnsss{width: 100%;}
+.bottomccos{background-color: #ffffff;}
+.cssttarea{resize: none;text-indent: 4em;}
+.hsoyyedispainblico{display: inline-block;}
+.uscoprigcss{color: #4a4a49;}
+.sendkbotm{z-index: 12;box-shadow:-1px 0px 10px #e5e5e5;}

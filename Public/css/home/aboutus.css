@@ -1,0 +1,257 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;box-sizing: border-box;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.kubabo{border: 1xp solid red;width: 174px;height: 79px;background:url(../../imgs/home/shoyue/kububo.png) no-repeat;background-size: 100% auto;}
+	.spanmaleft{margin: 0px 0px 0px 80px;}
+	.erspanmaleft span{margin: 63px 0px 0px 80px;}
+	.sanspanmaleft span{margin: 63px 0px 0px 80px;}
+	.qiweh{margin-top: 51px;}
+	.qinamwzsy{background-color: #000000;width: 4px;height: 31px;}
+	.jiantouimg{margin-left: 21px;width: 18px;height: 20px;background:url(../../imgs/home/aboutus/jiantouimng.png) no-repeat;background-size: 100% auto;}
+	.qinamqywh{background-color: #298af7;width: 4px;height: 31px;margin-left: 22px;}
+	.aleftwzsy{margin-left: 6px;}
+	.abuswzsy{font-size: 14px;color: #000000;}
+	.tabtitle ul{height: 31px;}
+	.tabtitle ul li{font-size: 14px;color: #000000;margin-left: 10px;line-height: 22px;}
+	.afterhubk{width: 4px;height: 16px;background-color: #979797;}
+	.tabneirong{margin-top: 82px;}
+	.imgqiyewenhua{width: 238px;height: 61px;background:url(../../imgs/home/aboutus/qyewenhua.png) no-repeat;background-size: 100% auto;}
+	.gbmx{font-size: 24px;color: #000000;margin-top: 70px;}
+	.letgoog{margin-top: 12px;font-size: 24px;color: #000000;}
+	.abushenyech{font-size: 18px;color: #4a4a49;line-height: 28px;}
+	.martopabsusheny{margin-top: 90px;}
+	.imgxmeishim{margin-top: 77px;width: 1200px;height: 557px;background:url(../../imgs/home/aboutus/meishimkeimg.png) no-repeat;background-size: 100% auto;}
+	.imgquyecompo{margin-top: 99px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/imgqiyecompo.png) no-repeat;background-size: 100% auto;}
+	.abusmartopqitascpm{margin-top: 43px;}
+	.imgqiyetudui{margin-top: 64px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/imgqiyetuadui.png) no-repeat;background-size: 100% auto;}
+	.imgduoingp{margin-top: 120px;width: 787px;height: 428px;background:url(../../imgs/home/aboutus/duoingp.png) no-repeat;background-size: 100% auto;z-index: 12;}
+	.duoingpbanco{background-color: #67acf9;height: 127px;width: 100%;top: 270px;}
+	.qiyehuangjimg{margin-top: 115px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/qiinghuangj.png) no-repeat;background-size: 100% auto;}
+	.imgywfw{width: 238px;height: 62px;background:url(../../imgs/home/aboutus/igmywfw.png) no-repeat;background-size: 100% auto;}
+	.yewuhehaf{width: 230px;height: 230px;background:url(../../imgs/home/aboutus/yewuhehaf.png) no-repeat;background-size: 100% auto;}
+	.schaf{width: 120px;height: 105px;background:url(../../imgs/home/aboutus/schaf.png) no-repeat;background-size: 100% auto;}
+	.ywyxxaf{font-size: 18px;color: #3493dc;text-align: center;margin-top: 16px;}
+	.wcewymaleft{margin-left: 127px;}
+	.hxgqwaimtop{margin-top: 87px;}
+	.gqafoimg{width: 103px;height: 109px;background:url(../../imgs/home/aboutus/wjgqaf.png) no-repeat;background-size: 100% auto;}
+	.qtimg{width: 99px;height: 99px;background:url(../../imgs/home/aboutus/qtwj.png) no-repeat;background-size: 100% auto;}
+	.gqafmaleft{margin-left: 207px;}
+	.qtleft{margin-left: 207px;}
+	.imgywlc{margin-top: 144px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/wjywlc.png) no-repeat;background-size: 100% auto;}
+	.xckcimg{width: 189px;height: 234px;background:url(../../imgs/home/aboutus/wjxckc.png) no-repeat;background-size: 100% auto;}
+	.sgxcdkc{font-size: 24px;color: #3f3f3f;text-align: center;margin-top: 35px;}
+	.xianckcdejt{margin-left: 46px;width: 39px;height: 7px;background:url(../../imgs/home/aboutus/ckjtwj.png) no-repeat;background-size: 100% auto;}
+	.sjfaimg{width: 189px;height: 234px;background:url(../../imgs/home/aboutus/wjsjfa.png) no-repeat;background-size: 100% auto;}
+	.sejfamaleftabus{margin-left: 79px;}
+	.sjjtabusjtleft{margin-left: 21px;}
+	.htqymaleftabus{margin-left: 69px;}
+	.htqdimg{width: 189px;height: 234px;background:url(../../imgs/home/aboutus/wjhtqd.png) no-repeat;background-size: 100% auto;}
+	.sxsgimg{width: 189px;height: 234px;background:url(../../imgs/home/aboutus/sxsgwj.png) no-repeat;background-size: 100% auto;}
+	.sxsgmaleftabus{margin-left: 49px;}
+	.ywlcmabottom{margin-top: 85px;}
+	.imgywwehu{margin-top: 130px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/ywwhwj.png) no-repeat;background-size: 100% auto;}
+	.chenjyiimg{width: 598px;height: 243px;background:url(../../imgs/home/aboutus/cjyrwwj.png) no-repeat;background-size: 100% auto;}
+	.yihdergeimg{width: 598px;height: 243px;background:url(../../imgs/home/aboutus/yigwnderg.png) no-repeat;background-size: 100% auto;}
+	.erhyigeimg{width: 598px;height: 243px;background:url(../../imgs/home/aboutus/erhyigewj.png) no-repeat;background-size: 100% auto;}
+	.erhergeimg{width: 598px;height: 243px;background:url(../../imgs/home/aboutus/erhergewj.png) no-repeat;background-size: 100% auto;}
+	.yihegmartop{margin-top: 75px;}
+	.yiergemaleft{margin-left: 3px;}
+	.yierhegmartop{margin-top: 1px;}
+	.imgqyrzh{width: 238px;height: 62px;background:url(../../imgs/home/aboutus/qyrzwj.png) no-repeat;background-size: 100% auto;}
+	.zzrywacematop{margin-top: 70px;}
+	.ryzzzsimg{width: 355px;height: 251px;background:url(../../imgs/home/aboutus/ryzzzswj.png) no-repeat;background-size: 100% auto;}
+	.ryzzzszt{margin-top: 22px;font-size: 24px;color: #000000;}
+	.maltjvli{margin-left: 69px;}
+	.yyzzimg{width: 353px;height: 255px;background:url(../../imgs/home/aboutus/yyzzrywj.png) no-repeat;background-size: 100% auto;}
+	.yyzzimgzt{margin-top: 13px;font-size: 24px;color: #000000;}
+	.zlrzimg{width: 348px;height: 243px;background:url(../../imgs/home/aboutus/iszlrzwj.png) no-repeat;background-size: 100% auto;}
+	.isojiulmatop{margin-top: 33px;}
+	.zcjgdmzimg{width: 353px;height: 252px;background:url(../../imgs/home/aboutus/zzjgdmzwj.png) no-repeat;background-size: 100% auto;}
+	.swdjzimg{width: 361px;height: 247px;background:url(../../imgs/home/aboutus/shdewjz.png) no-repeat;background-size: 100% auto;}
+	.qykhimgykz{width: 352px;height: 242px;background:url(../../imgs/home/aboutus/qykhwjykz.png) no-repeat;background-size: 100% auto;}
+	.khmarleftry{margin-left: 57px;}
+	.aqzsimg{width: 356px;height: 248px;background:url(../../imgs/home/aboutus/aqwjzs.png) no-repeat;background-size: 100% auto;}
+	.hjgltxzsimg{width: 348px;height: 240px;background:url(../../imgs/home/aboutus/wjhjglti.png) no-repeat;background-size: 100% auto;}
+	.jsffwuimg{width: 346px;height: 242px;background:url(../../imgs/home/aboutus/wjjshfazs.png) no-repeat;background-size: 100% auto;}
+	.imgtdjptd{width: 238px;height: 62px;background:url(../../imgs/home/aboutus/wjjptd.png) no-repeat;background-size: 100% auto;}
+	.qitdtmartop{margin-top: 94px;}
+	.qydyjynimg{background:url(../../imgs/home/aboutus/dtwjjjnmimg.png) no-repeat;background-size: 100% auto;}
+	.qytdqvwidh{width: 301px;height: 301px;}
+	.qyddimgjt{margin-top: 113px;width: 45px;height: 29px;background:url(../../imgs/home/aboutus/qyddwjjtzab.png) no-repeat;background-size: 100% auto;}
+	.qyddjtringimg{width: 45px;height: 29px;background:url(../../imgs/home/aboutus/qyddwjjtreing.png) no-repeat;background-size: 100% auto;}
+	.qyddjbaisectringimg{width: 45px;height: 29px;background:url(../../imgs/home/aboutus/qiydtbacobaise.png) no-repeat;background-size: 100% auto;}
+	.qydyjynrennimg{background:url(../../imgs/home/aboutus/dtwjjjnvrewjimg.png) no-repeat;background-size: 100% auto;}
+	.jsgddjzt{font-size: 24px;color: #424242;margin-top: 6px;}
+	.xianjgdcs{font-size: 14px;color: #545454;margin-top: 10px;}
+	.erlywumartop{margin-top: 14px;}
+	.qytmarlefttd{margin-left: 40px;}
+	.marrightqydt{margin-right: 30px;}
+	.jtjgcsmartop{margin-top: 59px;}
+	.ringjtmartop{margin-top: 20px;}
+	.jsonmartop{margin-top: 18px;}
+	.houjjmartop{margin-top: 109px;}
+	.gerenziliaoing{margin-top: 156px;width: 238px;height: 62px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.xializiwaik{width: 353px;height: 515px;box-shadow:0px 0px 5px #f2f2f2;}
+	.imgxiaolizi{width: 331px;height: 228px;background:url(../../imgs/home/aboutus/xializirenwu.png) no-repeat;background-size: 100% auto;}
+	.imgliposiyxiaplizi{background-position-y: -99px !important;}
+	.therziti{font-size: 36px;color: #3c95f8;margin-left: 22px;font-weight: 600;}
+	.thersamartop{margin-top: 10px;}
+	.thersamartopwupx{margin-top: 5px;}
+	.fzmyh{font-size: 16px;color: #424242;margin-left: 22px;}
+	.fzmyhmartop{margin-top: 16px;}
+	.jqqdmarbotm{border-bottom: 3px solid #cfcfcf;width: 63px;margin-left: 22px;margin-top: 15px;}
+	.topmartpux{margin-top: 45px;margin-left: 22px;}
+	.touxiangimg{border: 1px solid red;width: 53px;height: 53px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.limoumou{font-size: 24px;color: #cfcfcf;}
+	.xiangixangimg{width: 16px;height: 16px;background:url(../../imgs/home/aboutus/wujxiangxiangwj.png) no-repeat;background-size: 100% auto;}
+	.xxmarlef{margin-left: 4px;}
+	.limxxmarleft{margin-left: 10px;}
+	.abusaddimg{margin-right: 18px;width: 33px;height: 33px;background:url(../../imgs/home/aboutus/addwiabus.png) no-repeat;background-size: 100% auto;}
+	.xitouxwaicmarle{margin-left: 70px;}
+	.nanmingxiimg{background:url(../../imgs/home/aboutus/mignxwjimg.png) no-repeat;background-size: 100% auto;}
+	.sanrenwumartop{margin-top: 92px;}
+	/* 分页器 */
+	.fenxeqiandouring{width: 23px;height: 18px;background:url(../../imgs/home/aboutus/fenxiewjring.png) no-repeat;background-size: 100% auto;}
+	.fenxeqianwaice{height: 30px;}
+	.fenxeqiandouzuob{width: 23px;height: 18px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
+	.feiyemartop{margin-top: 180px;}
+	
+	
+	
+	
+	
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.kubabo{border: 1xp solid red;width: 123px;height: 56px;background:url(../../imgs/home/shoyue/kububo.png) no-repeat;background-size: 100% auto;}
+	.spanmaleft{margin: 0px 0px 0px 56px;}
+	.erspanmaleft span{margin: 44px 0px 0px 56px;}
+	.sanspanmaleft span{margin: 44px 0px 0px 56px;}
+	.qiweh{margin-top: 36px;}
+	.qinamwzsy{background-color: #000000;width: 3px;height: 22px;}
+	.jiantouimg{margin-left: 14px;width: 12px;height: 14px;background:url(../../imgs/home/aboutus/jiantouimng.png) no-repeat;background-size: 100% auto;}
+	.qinamqywh{background-color: #298af7;width: 3px;height: 22px;margin-left: 15px;}
+	.aleftwzsy{margin-left: 4px;}
+	.abuswzsy{font-size: 10px;color: #000000;}
+	.tabtitle ul{height: 22px;}
+	.tabtitle ul li{font-size: 10px;color: #000000;margin-left: 7px;line-height: 15px;}
+	.afterhubk{width: 3px;height: 11px;background-color: #979797;}
+	.tabneirong{margin-top: 58px;}
+	.imgqiyewenhua{width: 168px;height: 43px;background:url(../../imgs/home/aboutus/qyewenhua.png) no-repeat;background-size: 100% auto;}
+	.gbmx{font-size: 17px;color: #000000;margin-top: 49px;}
+	.letgoog{margin-top: 8px;font-size: 17px;color: #000000;}
+	.abushenyech{font-size: 12px;color: #4a4a49;line-height: 19px;}
+	.martopabsusheny{margin-top: 63px;}
+	.imgxmeishim{margin-top: 54px;width: 852px;height: 395px;background:url(../../imgs/home/aboutus/meishimkeimg.png) no-repeat;background-size: 100% auto;}
+	.imgquyecompo{margin-top: 70px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/imgqiyecompo.png) no-repeat;background-size: 100% auto;}
+	.abusmartopqitascpm{margin-top: 30px;}
+	.imgqiyetudui{margin-top: 45px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/imgqiyetuadui.png) no-repeat;background-size: 100% auto;}
+	.imgduoingp{margin-top: 85px;width: 558px;height: 303px;background:url(../../imgs/home/aboutus/duoingp.png) no-repeat;background-size: 100% auto;z-index: 12;}
+	.duoingpbanco{background-color: #67acf9;height: 90px;width: 100%;top: 191px;}
+	.qiyehuangjimg{margin-top: 81px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/qiinghuangj.png) no-repeat;background-size: 100% auto;}
+	.imgywfw{width: 168px;height: 44px;background:url(../../imgs/home/aboutus/igmywfw.png) no-repeat;background-size: 100% auto;}
+	.yewuhehaf{width: 163px;height: 163px;background:url(../../imgs/home/aboutus/yewuhehaf.png) no-repeat;background-size: 100% auto;}
+	.schaf{width: 85px;height: 74px;background:url(../../imgs/home/aboutus/schaf.png) no-repeat;background-size: 100% auto;}
+	.ywyxxaf{font-size: 12px;color: #3493dc;text-align: center;margin-top: 11px;}
+	.wcewymaleft{margin-left: 90px;}
+	.hxgqwaimtop{margin-top: 61px;}
+	.gqafoimg{width: 73px;height: 77px;background:url(../../imgs/home/aboutus/wjgqaf.png) no-repeat;background-size: 100% auto;}
+	.qtimg{width: 70px;height: 70px;background:url(../../imgs/home/aboutus/qtwj.png) no-repeat;background-size: 100% auto;}
+	.gqafmaleft{margin-left: 146px;}
+	.qtleft{margin-left: 146px;}
+	.imgywlc{margin-top: 102px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/wjywlc.png) no-repeat;background-size: 100% auto;}
+	.xckcimg{width: 134px;height: 166px;background:url(../../imgs/home/aboutus/wjxckc.png) no-repeat;background-size: 100% auto;}
+	.sgxcdkc{font-size: 17px;color: #3f3f3f;text-align: center;margin-top: 24px;}
+	.xianckcdejt{margin-left: 32px;width: 27px;height: 5px;background:url(../../imgs/home/aboutus/ckjtwj.png) no-repeat;background-size: 100% auto;}
+	.sjfaimg{width: 134px;height: 166px;background:url(../../imgs/home/aboutus/wjsjfa.png) no-repeat;background-size: 100% auto;}
+	.sejfamaleftabus{margin-left: 56px;}
+	.sjjtabusjtleft{margin-left: 14px;}
+	.htqymaleftabus{margin-left: 48px;}
+	.htqdimg{width: 134px;height: 166px;background:url(../../imgs/home/aboutus/wjhtqd.png) no-repeat;background-size: 100% auto;}
+	.sxsgimg{width: 134px;height: 166px;background:url(../../imgs/home/aboutus/sxsgwj.png) no-repeat;background-size: 100% auto;}
+	.sxsgmaleftabus{margin-left: 34px;}
+	.ywlcmabottom{margin-top: 60px;}
+	.imgywwehu{margin-top: 92px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/ywwhwj.png) no-repeat;background-size: 100% auto;}
+	.chenjyiimg{width: 424px;height: 172px;background:url(../../imgs/home/aboutus/cjyrwwj.png) no-repeat;background-size: 100% auto;}
+	.yihdergeimg{width: 424px;height: 172px;background:url(../../imgs/home/aboutus/yigwnderg.png) no-repeat;background-size: 100% auto;}
+	.erhyigeimg{width: 424px;height: 172px;background:url(../../imgs/home/aboutus/erhyigewj.png) no-repeat;background-size: 100% auto;}
+	.erhergeimg{width: 424px;height: 172px;background:url(../../imgs/home/aboutus/erhergewj.png) no-repeat;background-size: 100% auto;}
+	.yihegmartop{margin-top: 53px;}
+	.yiergemaleft{margin-left: 2px;}
+	.yierhegmartop{margin-top: 1px;}
+	.imgqyrzh{width: 168px;height: 44px;background:url(../../imgs/home/aboutus/qyrzwj.png) no-repeat;background-size: 100% auto;}
+	.zzrywacematop{margin-top: 49px;}
+	.ryzzzsimg{width: 252px;height: 178px;background:url(../../imgs/home/aboutus/ryzzzswj.png) no-repeat;background-size: 100% auto;}
+	.ryzzzszt{margin-top: 15px;font-size: 17px;color: #000000;}
+	.maltjvli{margin-left: 48px;}
+	.yyzzimg{width: 250px;height: 181px;background:url(../../imgs/home/aboutus/yyzzrywj.png) no-repeat;background-size: 100% auto;}
+	.yyzzimgzt{margin-top: 9px;font-size: 17px;color: #000000;}
+	.zlrzimg{width: 247px;height: 172px;background:url(../../imgs/home/aboutus/iszlrzwj.png) no-repeat;background-size: 100% auto;}
+	.isojiulmatop{margin-top: 23px;}
+	.zcjgdmzimg{width: 250px;height: 178px;background:url(../../imgs/home/aboutus/zzjgdmzwj.png) no-repeat;background-size: 100% auto;}
+	.swdjzimg{width: 256px;height: 175px;background:url(../../imgs/home/aboutus/shdewjz.png) no-repeat;background-size: 100% auto;}
+	.qykhimgykz{width: 249px;height: 171px;background:url(../../imgs/home/aboutus/qykhwjykz.png) no-repeat;background-size: 100% auto;}
+	.khmarleftry{margin-left: 40px;}
+	.aqzsimg{width: 252px;height: 176px;background:url(../../imgs/home/aboutus/aqwjzs.png) no-repeat;background-size: 100% auto;}
+	.hjgltxzsimg{width: 247px;height: 170px;background:url(../../imgs/home/aboutus/wjhjglti.png) no-repeat;background-size: 100% auto;}
+	.jsffwuimg{width: 245px;height: 171px;background:url(../../imgs/home/aboutus/wjjshfazs.png) no-repeat;background-size: 100% auto;}
+	.imgtdjptd{width: 168px;height: 44px;background:url(../../imgs/home/aboutus/wjjptd.png) no-repeat;background-size: 100% auto;}
+	.qitdtmartop{margin-top: 66px;}
+	.qydyjynimg{background:url(../../imgs/home/aboutus/dtwjjjnmimg.png) no-repeat;background-size: 100% auto;}
+	.qytdqvwidh{width: 213px;height: 213px;}
+	.qyddimgjt{margin-top: 80px;width: 31px;height: 20px;background:url(../../imgs/home/aboutus/qyddwjjtzab.png) no-repeat;background-size: 100% auto;}
+	.qyddjtringimg{width: 31px;height: 20px;background:url(../../imgs/home/aboutus/qyddwjjtreing.png) no-repeat;background-size: 100% auto;}
+	.qyddjbaisectringimg{width: 31px;height: 20px;background:url(../../imgs/home/aboutus/qiydtbacobaise.png) no-repeat;background-size: 100% auto;}
+	.qydyjynrennimg{background:url(../../imgs/home/aboutus/dtwjjjnvrewjimg.png) no-repeat;background-size: 100% auto;}
+	.jsgddjzt{font-size: 17px;color: #424242;margin-top: 4px;}
+	.xianjgdcs{font-size: 10px;color: #545454;margin-top: 7px;}
+	.erlywumartop{margin-top: 10px;}
+	.qytmarlefttd{margin-left: 28px;}
+	.marrightqydt{margin-right: 21px;}
+	.jtjgcsmartop{margin-top: 41px;}
+	.ringjtmartop{margin-top: 14px;}
+	.jsonmartop{margin-top: 12px;}
+	.houjjmartop{margin-top: 77px;}
+	.gerenziliaoing{margin-top: 110px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.xializiwaik{width: 250px;height: 365px;box-shadow:0px 0px 5px #f2f2f2;}
+	.imgxiaolizi{width: 235px;height: 161px;background:url(../../imgs/home/aboutus/xializirenwu.png) no-repeat;background-size: 100% auto;}
+	
+	.imgliposiyxiaplizi{background-position-y: -70px !important;}
+	
+	.therziti{font-size: 25px;color: #3c95f8;margin-left: 15px;font-weight: 600;}
+	.thersamartop{margin-top: 7px;}
+	.thersamartopwupx{margin-top: 3px;}
+	.fzmyh{font-size: 11px;color: #424242;margin-left: 15px;}
+	.fzmyhmartop{margin-top: 11px;}
+	.jqqdmarbotm{border-bottom: 3px solid #cfcfcf;width: 44px;margin-left: 15px;margin-top: 10px;}
+	.topmartpux{margin-top: 31px;margin-left: 15px;}
+	.touxiangimg{border: 1px solid red;width: 37px;height: 37px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.limoumou{font-size: 17px;color: #cfcfcf;}
+	.xiangixangimg{width: 11px;height: 11px;background:url(../../imgs/home/aboutus/wujxiangxiangwj.png) no-repeat;background-size: 100% auto;}
+	.xxmarlef{margin-left: 3px;}
+	.limxxmarleft{margin-left: 7px;}
+	.abusaddimg{margin-right: 12px;width: 23px;height: 23px;background:url(../../imgs/home/aboutus/addwiabus.png) no-repeat;background-size: 100% auto;}
+	.xitouxwaicmarle{margin-left: 49px;}
+	.nanmingxiimg{background:url(../../imgs/home/aboutus/mignxwjimg.png) no-repeat;background-size: 100% auto;}
+	.sanrenwumartop{margin-top: 65px;}
+	/* 分页器 */
+	.fenxeqiandouring{width: 16px;height: 12px;background:url(../../imgs/home/aboutus/fenxiewjring.png) no-repeat;background-size: 100% auto;}
+	.fenxeqianwaice{height: 21px;}
+	.fenxeqiandouzuob{width: 16px;height: 12px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
+	.feiyemartop{margin-top: 127px;}
+	
+}
+.tabtitle ul li:first-child{margin-left: 0px;}
+.xzdecssli{border-bottom: 4px solid #298af7;}
+.spanmaleft:first-child{margin: 0px;}
+.erspanmaleft span:first-child{margin-left:0px;}
+.sanspanmaleft span:first-child{margin-left:0px;}
+.gyddisnone{display: none;}
+.qytddisjrign{justify-content: flex-end;}
+.qydttexring{text-align: right;}
+.jtjgcjbacor{background-color: #3c95f8;}
+.ziticolor{color: #ffffff;}
+.shouxiao{cursor:pointer;}

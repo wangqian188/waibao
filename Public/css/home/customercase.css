@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.jdal{margin-top: 92px;width: 144px;height: 61px;background:url(../../imgs/home/customercase/wjjdal.png) no-repeat;background-size: 100% auto;}
+	.aldtmtp{margin-top: 87px;}
+	.sqgdgs{}
+	.xtgj{font-size: 14px;color: #4a4a49;line-height: 28px;}
+	.xifanatop{margin-top: 17px;}
+	.ifcea{font-size: 12px;color: #4a4a49;line-height: 22px;}
+	.ckgdccas{font-size: 20px;color: #000000;border: 1px solid #030303;width: 107px;height: 40px;text-align: center;line-height: 40px;border-radius: 5px;margin-top: 44px;}
+	.newctbotmartop{margin-top: 129px;}
+	
+	
+	
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.jdal{margin-top: 65px;width: 102px;height: 43px;background:url(../../imgs/home/customercase/wjjdal.png) no-repeat;background-size: 100% auto;}
+	.aldtmtp{margin-top: 61px;}
+	.sqgdgs{}
+	.xtgj{font-size: 10px;color: #4a4a49;line-height: 20px;}
+	.xifanatop{margin-top: 12px;}
+	.ifcea{font-size: 8px;color: #4a4a49;line-height: 15px;}
+	.ckgdccas{font-size: 14px;color: #000000;border: 1px solid #030303;width: 76px;height: 28px;text-align: center;line-height: 28px;border-radius: 4px;margin-top: 31px;}
+	.newctbotmartop{margin-top: 91px;}
+}
+
+
+

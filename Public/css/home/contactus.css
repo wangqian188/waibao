@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;box-sizing: border-box;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.bannerimg{width: 100%;height: 564px;background:url(../../imgs/home/contactus/bannerwj.png) no-repeat;background-size: 100% auto;}
+	.contimg{width: 323px;height: 49px;background:url(../../imgs/home/contactus/contwj.png) no-repeat;background-size: 100% auto;}
+	.martopcomt{margin-top: 101px;}
+	.topfind{font-size: 16px;color: #989898;line-height: 48px;}
+	.consouscss{font-size: 16px;color: #454242;}
+	.wwwweb{background-color: #3c95f8;margin-top: 65px;padding: 0px 112px;}
+	.webdax{font-size: 14px;color: #1b4370;line-height: 25px;}
+	.webdehei{height: 177px;}
+	.dinnpinimg{width: 50px;height: 46px;background:url(../../imgs/home/contactus/dianpingwj.png) no-repeat;background-size: 100% auto;}
+	.ergewebmarlef{margin-left: 190px;}
+	.qqimg{width: 45px;height: 46px;background:url(../../imgs/home/contactus/qqwjimg.png) no-repeat;background-size: 100% auto;}
+	.sangewebmarlef{margin-left: 154px;}
+	.dizhiimg{width: 59px;height: 46px;background:url(../../imgs/home/contactus/diliwewjzhi.png) no-repeat;background-size: 100% auto;}
+	.siewebmarlef{margin-left: 143px;}
+	.phineimg{width: 38px;height: 46px;background:url(../../imgs/home/contactus/phonewj.png) no-repeat;background-size: 100% auto;}
+	.addofimg{width: 445px;height: 52px;background:url(../../imgs/home/contactus/addofwj.png) no-repeat;background-size: 100% auto;}
+	.martipaddof{margin-top: 95px;}
+	.baidudicimg{width: 100%;height: 499px;background:url(../../imgs/home/contactus/bdwjdt.png) no-repeat;background-size: 100% auto;}
+	.martopbadudi{margin-top: 56px;}
+	.addfisutop{margin-top: 143px;}
+	
+	
+	
+	
+	
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.bannerimg{width: 100%;height: 400px;background:url(../../imgs/home/contactus/bannerwj.png) no-repeat;background-size: 100% auto;}
+	.contimg{width: 229px;height: 34px;background:url(../../imgs/home/contactus/contwj.png) no-repeat;background-size: 100% auto;}
+	.martopcomt{margin-top: 71px;}
+	.topfind{font-size: 12px;color: #989898;line-height: 34px;}
+	.consouscss{font-size: 12px;color: #454242;}
+	.wwwweb{background-color: #3c95f8;margin-top: 46px;padding: 0px 79px;}
+	.webdax{font-size: 10px;color: #1b4370;line-height: 17px;}
+	.webdehei{height: 125px;}
+	.dinnpinimg{width: 35px;height: 32px;background:url(../../imgs/home/contactus/dianpingwj.png) no-repeat;background-size: 100% auto;}
+	.ergewebmarlef{margin-left: 134px;}
+	.qqimg{width: 31px;height: 32px;background:url(../../imgs/home/contactus/qqwjimg.png) no-repeat;background-size: 100% auto;}
+	.sangewebmarlef{margin-left: 109px;}
+	.dizhiimg{width: 41px;height: 32px;background:url(../../imgs/home/contactus/diliwewjzhi.png) no-repeat;background-size: 100% auto;}
+	.siewebmarlef{margin-left: 101px;}
+	.phineimg{width: 26px;height: 32px;background:url(../../imgs/home/contactus/phonewj.png) no-repeat;background-size: 100% auto;}
+	.addofimg{width: 316px;height: 36px;background:url(../../imgs/home/contactus/addofwj.png) no-repeat;background-size: 100% auto;}
+	.martipaddof{margin-top: 67px;}
+	.baidudicimg{width: 100%;height: 354px;background:url(../../imgs/home/contactus/bdwjdt.png) no-repeat;background-size: 100% auto;}
+	.martopbadudi{margin-top: 39px;}
+	.addfisutop{margin-top: 101px;}
+}
