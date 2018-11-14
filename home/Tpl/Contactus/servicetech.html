@@ -81,7 +81,7 @@
 		<div class="wang">
 			<div class="larger yitechsiflex">
 				<div class="yezlager">
-					<div class="thewenti"></div>
+					<div class="thewenti shouxiao"></div>
 				</div>
 				<div class="yezhukaoyou yitechsiflex shangxiaceter">
 					<ul>
@@ -89,7 +89,7 @@
 						<li class="gywme">关于我们</li>
 						<li class="">新闻中心</li>
 						<li class="">客户案例</li>
-						<li class="">服务技术</li>
+						<li class="xzyancsecs">服务技术</li>
 						<li class="">联系我们</li>
 					</ul>
 				</div>
@@ -210,5 +210,31 @@
 
 <script type="text/javascript">
 	$("#carousel_1").FtCarousel();
-	
+	$(".thewenti").on("click", function() {
+		window.location.href="__APP__/Index/index";
+	});
+	var tzhu = $(".yezhukaoyou ul li");
+	$(".yezhukaoyou ul li").on("click", function() {
+		var index = $(this).index();
+		for(var i=0;i<tzhu.length;i++){
+			if(index == 0){
+				window.location.href="__APP__/Index/index";
+			}
+			if(index == 1){
+				window.location.href="__APP__/Index/aboutus";
+			}
+			if(index == 2){
+				window.location.href="__APP__/Contactus/newcenter";
+			}
+			if(index == 3){
+				window.location.href="__APP__/Contactus/customercase";
+			}
+			if(index == 4){
+				window.location.href="__APP__/Contactus/servicetech";
+			}
+			if(index == 5){
+				window.location.href="__APP__/Contactus/index";
+			}
+		}
+	});
 </script>
