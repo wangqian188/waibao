@@ -4,11 +4,13 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>晟业传奇</title>
+		<link rel="icon" href="__PUBLIC__/imgs/home/title_img.png" type="image/x-icon"/>
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/book.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/ft-carousel.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/indebottom.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/aboutus.css" />
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/layui.css" />
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/swiper.min.css" />
 
 	</head>
 	<style type="text/css">
@@ -46,6 +48,10 @@
 			/* 分页器 */
 			.layui-laypage a, .layui-laypage span{font-size: 18px;}
 			.layui-laypage .layui-laypage-curr .layui-laypage-em{background-color:#10337a;}
+			
+			.swiper-button-prev{width: 68px;height: 68px;background:url(__PUBLIC__/imgs/home/aboutus/zuwjqyhj.png) no-repeat;background-size: 100% auto;left: -188px;outline: none;}
+			/*改变了颜色和加粗的样式*/
+			.swiper-button-next{width: 68px;height: 68px;background:url(__PUBLIC__/imgs/home/aboutus/youwjqyhj.png) no-repeat;background-size: 100% auto;right: -168px;outline: none;}
 		}
 
 		/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
@@ -75,6 +81,14 @@
 				height: 319px;
 				float: left;
 			}
+			
+			/* 分页器 */
+			.layui-laypage a, .layui-laypage span{font-size: 12px;}
+			.layui-laypage .layui-laypage-curr .layui-laypage-em{background-color:#10337a;}
+			
+			.swiper-button-prev{width: 48px;height: 48px;background:url(__PUBLIC__/imgs/home/aboutus/zuwjqyhj.png) no-repeat;background-size: 100% auto;left: -133px;outline: none;}
+			/*改变了颜色和加粗的样式*/
+			.swiper-button-next{width: 48px;height: 48px;background:url(__PUBLIC__/imgs/home/aboutus/youwjqyhj.png) no-repeat;background-size: 100% auto;right: -119px;outline: none;}
 			
 		}
 	</style>
@@ -223,21 +237,21 @@
 								<div class="imgywfw"></div>
 							</div>
 							<div class="hsoyyedispa hxgqwaimtop">
-								<div class="yewuhehaf"></div>
-								<div class="hsoyyedispa bottomdisalie wcewymaleft">
-									<div class="">
+								<div class="yewuhehaf shouxiao yewfwddijsj"></div>
+								<div class="hsoyyedispa bottomdisalie wcewymaleft yewfwddijsj">
+									<div class="shouxiao">
 										<div class="schaf"></div>
 										<div class="ywyxxaf">学校安防</div>
 									</div>
 								</div>
-								<div class="hsoyyedispa bottomdisalie gqafmaleft">
-									<div class="">
+								<div class="hsoyyedispa bottomdisalie gqafmaleft yewfwddijsj">
+									<div class="shouxiao">
 										<div class="gqafoimg"></div>
 										<div class="ywyxxaf">国企安防</div>
 									</div>
 								</div>
-								<div class="hsoyyedispa bottomdisalie qtleft">
-									<div class="">
+								<div class="hsoyyedispa bottomdisalie qtleft yewfwddijsj">
+									<div class="shouxiao">
 										<div class="qtimg"></div>
 										<div class="ywyxxaf">其他</div>
 									</div>
@@ -515,20 +529,63 @@
 					</div>
 				</div>
 				<!-- 企业环境 -->
-				<div class="">
-					企业环境的图片
+				<div class="wanglawge topquhj">
+					<div class="gywidth bottomposrela">
+						<div class="swiper-container">
+							<div class="swiper-wrapper">
+								<div class="swiper-slide">
+									<div class="qyhjwd">
+										<div class="qyhjjybgsimg"></div>
+										<div class="padqyhj">
+											<div class="djcqy">独具创意简约高大上的现代化办公环境</div>
+											<div class="hsoyyedispa">
+												<div class="djcqy">简约高大上的办公室</div>
+												<div class="hsoyyedispa bottomdisalie bgsls">
+													<div class=""></div>
+												</div>
+											</div>
+											<div class="djcqy">LET GO OF YOUR DREAMS AND GO FREE</div>
+										</div>
+									</div>
+								</div>
+								<div class="swiper-slide">
+									<div class="qyhjwd">
+										<div class="ergebanyizimg"></div>
+										<div class="padqyhj">
+											<div class="djcqy">独具创意简约高大上的现代化办公环境</div>
+											<div class="hsoyyedispa">
+												<div class="djcqy">简约高大上的办公室</div>
+												<div class="hsoyyedispa bottomdisalie bgsls">
+													<div class=""></div>
+												</div>
+											</div>
+											<div class="djcqy">LET GO OF YOUR DREAMS AND GO FREE</div>
+										</div>
+									</div>
+								</div>
+								<div class="swiper-slide">
+									<div class="qyhjwd">
+										<div class="qyhjjybgsimg"></div>
+										<div class="padqyhj">
+											<div class="djcqy">独具创意简约高大上的现代化办公环境</div>
+											<div class="hsoyyedispa">
+												<div class="djcqy">简约高大上的办公室</div>
+												<div class="hsoyyedispa bottomdisalie bgsls">
+													<div class=""></div>
+												</div>
+											</div>
+											<div class="djcqy">LET GO OF YOUR DREAMS AND GO FREE</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+					</div>
 				</div>
 			</div>
-			
-
-
-
-
-
-
-
-
-
 		</div>
 
 
@@ -542,7 +599,7 @@
 
 
 		<!-- 页面的底部 -->
-		<div class="bottomposrela usbottommartop">
+		<div class="bottomposrela usbottommartop larnewtop">
 			<div class="wanglawge">
 				<div class="gywidth hsoyyedispa">
 					<div class="bottomimgdi bottomposrela"></div>
@@ -601,9 +658,31 @@
 <script src="__PUBLIC__/js/home/jquery.min.js"></script>
 <script src="__PUBLIC__/js/home/ft-carousel.min.js"></script>
 <script src="__PUBLIC__/js/home/layui.all.js"></script>
-
+<script src="__PUBLIC__/js/home/swiper.min.js"></script>
 
 <script type="text/javascript">
+	var mySwiper = new Swiper('.swiper-container',{
+		//loop: true, // 循环模式选项
+		// 如果需要分页器
+// 		pagination: {
+// 		el: '.swiper-pagination',
+// 		},
+		// 如果需要前进后退按钮
+		prevButton:'.swiper-button-prev',
+		nextButton:'.swiper-button-next',
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+		
+		slidesPerView : 2,
+		onTransitionEnd: function(swiper){
+		    if(swiper.progress==1){
+			    swiper.activeIndex=swiper.slides.length-1
+		    }
+	    }
+	});
+	
 	$("#carousel_1").FtCarousel();
 	$(".dianjis").on("click", function() {
 		$(".dianjis").removeClass("xzdecssli");
@@ -673,7 +752,23 @@
 			}
 		}
 	});
-	
+	$(".yewfwddijsj").on("click", function() {
+		var index = $(this).index();
+		for(var i=0;i<tzhu.length;i++){
+			if(index == 0){
+				window.open("__APP__/Index/abusbank");
+			}
+			if(index == 1){
+				window.open("__APP__/Index/schoolanf");
+			}
+			if(index == 2){
+				window.open("__APP__/Index/composanf");
+			}
+			if(index == 3){
+				window.open("__APP__/Index/otheryew");
+			}
+		}
+	});
 	
 	
 	

@@ -4,11 +4,13 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>晟业传奇</title>
+		<link rel="icon" href="__PUBLIC__/imgs/home/title_img.png" type="image/x-icon"/>
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/book.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/ft-carousel.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/indebottom.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/aboutus.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/customercase.css" />
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/swiper.min.css" />
 
 	</head>
 	<style type="text/css">
@@ -44,6 +46,11 @@
 				float: left;
 			}
 			
+			/* Swiper图片轮播的css修改 */
+			.swiper-container {width: 1200px;}  
+			.swiper-button-prev{width: 91px;height: 91px;background:url(__PUBLIC__/imgs/home/customercase/zubjdalwj.png) no-repeat;background-size: 100% auto;left: 0px;outline: none;}
+			/*改变了颜色和加粗的样式*/
+			.swiper-button-next{width: 91px;height: 91px;background:url(__PUBLIC__/imgs/home/customercase/youwjjdal.png) no-repeat;background-size: 100% auto;right: 0px;outline: none;}
 		}
 
 		/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
@@ -73,6 +80,12 @@
 				height: 319px;
 				float: left;
 			}
+			
+			/* Swiper图片轮播的css修改 */
+			.swiper-container {width: 852px;}  
+			.swiper-button-prev{width: 64px;height: 64px;background:url(__PUBLIC__/imgs/home/customercase/zubjdalwj.png) no-repeat;background-size: 100% auto;left: 0px;outline: none;}
+			/*改变了颜色和加粗的样式*/
+			.swiper-button-next{width: 64px;height: 64px;background:url(__PUBLIC__/imgs/home/customercase/youwjjdal.png) no-repeat;background-size: 100% auto;right: 0px;outline: none;}
 			
 		}
 	</style>
@@ -140,21 +153,219 @@
 					<div class="aldtmtp hsoyyedispa">
 						<div class="sqgdgs"></div>
 						<div class="">
-							45645645456456465
+							<div class="swiper-container">
+								<div class="swiper-wrapper">
+									<div class="swiper-slide jdalwbb hsoyyedispa">
+										<div class="bottomposrela">
+											<div class="jdalyjdt"></div>
+											<div class="bottomposabso sqlogo hsoyyedispa">
+												<div class="imgswidthqlog wanglawge">
+													<div class="imgsqlog"></div>
+												</div>
+												<div class="lefwcsq">
+													<div class="leftsqer">商丘供电公司</div>
+													<div class="sqtime">2013年1月</div>
+												</div>
+											</div>
+										</div>
+										<div class="leftjr">
+											<div class="jrimg"></div>
+											<div class="topckalxq wanglawge">
+												<div class="detahk wanglawge"><span>查看案例详情</span></div>
+											</div>
+											<div class="lefthn">
+												<div class="hnxtzit">河南信通置业信通金融中心</div>
+												<div class="hsoyyedispa">
+													<div class="rwimgjdal"></div>
+													<div class="khjdal">客户/信通国际金融中心</div>
+												</div>
+												<div class="hsoyyedispa topsgzj bottomdisalie">
+													<div class="timeimgjdal"></div>
+													<div class="khjdal">时间/2014年11月施工在建</div>
+												</div>
+												<!-- <div class="hentxjdalwf">
+													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div> -->
+											</div>
+										</div>
+										<div class="lefjdalheny">
+											<div class="bottomposrela">
+												<div class="imgcyhhdal"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh">
+														<div class="leftsqer">中国银行</div>
+														<div class="sqtime">42012</div>
+													</div>
+												</div>
+											</div>
+											<div class="bottomposrela topjdalxc">
+												<div class="imgjdalxch"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh wanglawge">
+														<div class="leftsqer">许昌职业技术学院</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="swiper-slide jdalwbb hsoyyedispa">
+										<div class="bottomposrela">
+											<div class="jdalyjdt"></div>
+											<div class="bottomposabso sqlogo hsoyyedispa">
+												<div class="imgswidthqlog wanglawge">
+													<div class="imgsqlog"></div>
+												</div>
+												<div class="lefwcsq">
+													<div class="leftsqer">商丘供电公司</div>
+													<div class="sqtime">2013年1月</div>
+												</div>
+											</div>
+										</div>
+										<div class="leftjr">
+											<div class="jrimg"></div>
+											<div class="topckalxq wanglawge">
+												<div class="detahk wanglawge"><span>查看案例详情</span></div>
+											</div>
+											<div class="lefthn">
+												<div class="hnxtzit">河南信通置业信通金融中心</div>
+												<div class="hsoyyedispa">
+													<div class="rwimgjdal"></div>
+													<div class="khjdal">客户/信通国际金融中心</div>
+												</div>
+												<div class="hsoyyedispa topsgzj bottomdisalie">
+													<div class="timeimgjdal"></div>
+													<div class="khjdal">时间/2014年11月施工在建</div>
+												</div>
+												<!-- <div class="hentxjdalwf">
+													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div> -->
+											</div>
+										</div>
+										<div class="lefjdalheny">
+											<div class="bottomposrela">
+												<div class="imgcyhhdal"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh">
+														<div class="leftsqer">中国银行</div>
+														<div class="sqtime">42012</div>
+													</div>
+												</div>
+											</div>
+											<div class="bottomposrela topjdalxc">
+												<div class="imgjdalxch"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh wanglawge">
+														<div class="leftsqer">许昌职业技术学院</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="swiper-slide jdalwbb hsoyyedispa">
+										<div class="bottomposrela">
+											<div class="jdalyjdt"></div>
+											<div class="bottomposabso sqlogo hsoyyedispa">
+												<div class="imgswidthqlog wanglawge">
+													<div class="imgsqlog"></div>
+												</div>
+												<div class="lefwcsq">
+													<div class="leftsqer">商丘供电公司</div>
+													<div class="sqtime">2013年1月</div>
+												</div>
+											</div>
+										</div>
+										<div class="leftjr">
+											<div class="jrimg"></div>
+											<div class="topckalxq wanglawge">
+												<div class="detahk wanglawge"><span>查看案例详情</span></div>
+											</div>
+											<div class="lefthn">
+												<div class="hnxtzit">河南信通置业信通金融中心</div>
+												<div class="hsoyyedispa">
+													<div class="rwimgjdal"></div>
+													<div class="khjdal">客户/信通国际金融中心</div>
+												</div>
+												<div class="hsoyyedispa topsgzj bottomdisalie">
+													<div class="timeimgjdal"></div>
+													<div class="khjdal">时间/2014年11月施工在建</div>
+												</div>
+												<!-- <div class="hentxjdalwf">
+													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div> -->
+											</div>
+										</div>
+										<div class="lefjdalheny">
+											<div class="bottomposrela">
+												<div class="imgcyhhdal"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh">
+														<div class="leftsqer">中国银行</div>
+														<div class="sqtime">42012</div>
+													</div>
+												</div>
+											</div>
+											<div class="bottomposrela topjdalxc">
+												<div class="imgjdalxch"></div>
+												<div class="bottomposabso chjdallogo hsoyyedispa">
+													<div class="imgswidthqlog wanglawge">
+														<div class="imgsqlog"></div>
+													</div>
+													<div class="lefwccyh wanglawge">
+														<div class="leftsqer">许昌职业技术学院</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="swiper-button-prev"></div>
+								<div class="swiper-button-next"></div>
+							</div>
 						</div>
 					</div>
 					
 					
-					<div class="wanglawge">
+					<div class="wanglawge topzgw">
 						<div class="xtgj">信通国际金融中心（IFC）位于许昌市东城区，东临城市主干道魏文路，北临南海街，西侧是许昌科技广场，南边紧临许昌市创业服务中心。项目占地面积53252</div>
 					</div>
 					<div class="wanglawge">
 						<div class="xtgj">平方米，总建筑面积27万平米，容积率3.82，绿地率32%，拥有停车位2040个（含地下）。建设性质属于商务金融用地，中心内含5A级高档写字楼、SOHO公</div>
 					</div>
-					<div class="wanglawge">
+					<div class="wanglawge zhankandemo">
 						<div class="xtgj">寓、酒店式公寓、商务酒店、高端独栋商务办公楼以及配套商务等。信通国际金融中心集地标级写字楼、高档公寓、时尚酒店、</div>
 					</div>
-					<div class="wanglawge">
+					
+					
+					
+					
+					<div class="shouqidemo serdispa">
+						<div class="wanglawge">
+							<div class="xtgj">寓、酒店式公寓、商务酒店、高端独栋商务办公楼以及配套商务等。信通国际金融中心集地标级写字楼、高档公寓、</div>
+						</div>
+						<div class="wanglawge">
+							<div class="xtgj">时尚酒店休闲商业中心为一体，为许昌提供全新的国际商务标准。</div>
+						</div>
+						<div class="wanglawge">
+							<div class="xtgj">项目于2014年11月施工在建。</div>
+						</div>
+					</div>
+					
+					<div class="wanglawge zhankandemo">
 						<div class="xtgj">......</div>
 					</div>
 					<div class="wanglawge xifanatop">
@@ -163,13 +374,27 @@
 					<div class="wanglawge">
 						<div class="ifcea">of Xuchang City entrepreneurship service center. The project covers an area of 53,252 square meters, with a total floor area of 270,000 square meters, a volume rate of 3.82, a green space rate of 32%, </div>
 					</div>
-					<div class="wanglawge">
+					<div class="shouqidemo serdispa">
+						<div class="wanglawge">
+							<div class="ifcea">and 2040 parking spaces (including underground). Constructive nature belongs to commercial and financial land, the center contains 5A high-grade office buildings, SOHO apartments, hotel-style </div>
+						</div>
+						<div class="wanglawge">
+							<div class="ifcea">apartments, business hotels, high-end single commercial office buildings and supporting business. CITIC International Finance Center integrates landmark office buildings</div>
+						</div>
+						<div class="wanglawge">
+							<div class="ifcea">, high-end apartments, fashion hotels, leisure and commercial centers, providing Xuchang with new international business standards. </div>
+						</div>
+						<div class="wanglawge">
+							<div class="ifcea">The project was under construction in November 2014.</div>
+						</div>
+					</div>
+					<div class="wanglawge zhankandemo">
 						<div class="ifcea">and 2040 parking spaces (including underground). Constructive nature belongs to commercial and financial land, the center contains 5A high-grade office buildings, </div>
 					</div>
-					<div class="wanglawge">
+					<div class="wanglawge zhankandemo">
 						<div class="xtgj">......</div>
 					</div>
-					<div class="wanglawge">
+					<div class="wanglawge shouxiao zhankandemo">
 						<div class="ckgdccas">查看更多</div>
 					</div>
 				</div>
@@ -229,8 +454,16 @@
 </html>
 <script src="__PUBLIC__/js/home/jquery.min.js"></script>
 <script src="__PUBLIC__/js/home/ft-carousel.min.js"></script>
+<script src="__PUBLIC__/js/home/swiper.min.js"></script>
 
 <script type="text/javascript">
+	var mySwiper = new Swiper('.swiper-container',{
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+	});
+	
 	$("#carousel_1").FtCarousel();
 	$(".thewenti").on("click", function() {
 		window.location.href="__APP__/Index/index";
@@ -258,5 +491,9 @@
 				window.location.href="__APP__/Contactus/index";
 			}
 		}
+	});
+	$(".ckgdccas").on("click", function() {
+		$(".zhankandemo").addClass("serdispa");
+		$(".shouqidemo").removeClass("serdispa");
 	});
 </script>

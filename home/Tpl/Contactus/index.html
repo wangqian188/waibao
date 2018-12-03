@@ -4,6 +4,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>晟业传奇</title>
+		<link rel="icon" href="__PUBLIC__/imgs/home/title_img.png" type="image/x-icon"/>
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/book.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/indebottom.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/contactus.css" />

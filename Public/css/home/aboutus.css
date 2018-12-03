@@ -103,7 +103,7 @@
 	.fzmyhmartop{margin-top: 16px;}
 	.jqqdmarbotm{border-bottom: 3px solid #cfcfcf;width: 63px;margin-left: 22px;margin-top: 15px;}
 	.topmartpux{margin-top: 45px;margin-left: 22px;}
-	.touxiangimg{border: 1px solid red;width: 53px;height: 53px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.touxiangimg{width: 53px;height: 53px;background:url(../../imgs/home/aboutus/touxiangwj.png) no-repeat;background-size: 100% auto;}
 	.limoumou{font-size: 24px;color: #cfcfcf;}
 	.xiangixangimg{width: 16px;height: 16px;background:url(../../imgs/home/aboutus/wujxiangxiangwj.png) no-repeat;background-size: 100% auto;}
 	.xxmarlef{margin-left: 4px;}
@@ -117,8 +117,15 @@
 	.fenxeqianwaice{height: 30px;}
 	.fenxeqiandouzuob{width: 23px;height: 18px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
 	.feiyemartop{margin-top: 180px;}
-	
-	
+	.qyhjjybgsimg{width: 586px;height: 415px;background:url(../../imgs/home/aboutus/qyhjwjimg.png) no-repeat;background-size: 100% auto;}
+	.ergebanyizimg{width: 586px;height: 415px;background:url(../../imgs/home/aboutus/bayiziwj.png) no-repeat;background-size: 100% auto;}
+	.topquhj{margin-top: 60px;}
+	.qyhjwd{width: 586px;}
+	.padqyhj{padding-left: 17px;margin-top: 16px;}
+	.djcqy{font-size: 16px;color: #000000;line-height: 23px;}
+	.bgsls{line-height: 23px;}
+	.bgsls div{width: 4px;height: 14px;background-color: #298af7;margin-left: 4px;}
+	.larnewtop{margin-top: 80px;}
 	
 	
 	
@@ -218,9 +225,7 @@
 	.gerenziliaoing{margin-top: 110px;width: 168px;height: 44px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
 	.xializiwaik{width: 250px;height: 365px;box-shadow:0px 0px 5px #f2f2f2;}
 	.imgxiaolizi{width: 235px;height: 161px;background:url(../../imgs/home/aboutus/xializirenwu.png) no-repeat;background-size: 100% auto;}
-	
 	.imgliposiyxiaplizi{background-position-y: -70px !important;}
-	
 	.therziti{font-size: 25px;color: #3c95f8;margin-left: 15px;font-weight: 600;}
 	.thersamartop{margin-top: 7px;}
 	.thersamartopwupx{margin-top: 3px;}
@@ -228,7 +233,7 @@
 	.fzmyhmartop{margin-top: 11px;}
 	.jqqdmarbotm{border-bottom: 3px solid #cfcfcf;width: 44px;margin-left: 15px;margin-top: 10px;}
 	.topmartpux{margin-top: 31px;margin-left: 15px;}
-	.touxiangimg{border: 1px solid red;width: 37px;height: 37px;background:url(../../imgs/home/aboutus/persomzowenj.png) no-repeat;background-size: 100% auto;}
+	.touxiangimg{width: 37px;height: 37px;background:url(../../imgs/home/aboutus/touxiangwj.png) no-repeat;background-size: 100% auto;}
 	.limoumou{font-size: 17px;color: #cfcfcf;}
 	.xiangixangimg{width: 11px;height: 11px;background:url(../../imgs/home/aboutus/wujxiangxiangwj.png) no-repeat;background-size: 100% auto;}
 	.xxmarlef{margin-left: 3px;}
@@ -242,6 +247,15 @@
 	.fenxeqianwaice{height: 21px;}
 	.fenxeqiandouzuob{width: 16px;height: 12px;background:url(../../imgs/home/aboutus/feinyezuobwj.png) no-repeat;background-size: 100% auto;}
 	.feiyemartop{margin-top: 127px;}
+	.qyhjjybgsimg{width: 416px;height: 294px;background:url(../../imgs/home/aboutus/qyhjwjimg.png) no-repeat;background-size: 100% auto;}
+	.ergebanyizimg{width: 416px;height: 294px;background:url(../../imgs/home/aboutus/bayiziwj.png) no-repeat;background-size: 100% auto;}
+	.topquhj{margin-top: 42px;}
+	.qyhjwd{width: 416px;}
+	.padqyhj{padding-left: 12px;margin-top: 11px;}
+	.djcqy{font-size: 11px;color: #000000;line-height: 16px;}
+	.bgsls{line-height: 16px;}
+	.bgsls div{width: 3px;height: 3px;background-color: #298af7;margin-left: 3px;}
+	.larnewtop{margin-top: 56px;}
 	
 }
 .tabtitle ul li:first-child{margin-left: 0px;}

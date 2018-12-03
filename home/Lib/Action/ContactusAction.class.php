@@ -10,6 +10,11 @@ class ContactusAction extends Action {
 	public function newcenter(){
 		$this->display();
 	}
+	//新闻中心--行业资讯
+	public function industry(){
+		$this->display();
+	}
+	
     
 	//客户案例
 	public function customercase(){

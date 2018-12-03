@@ -4,6 +4,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>晟业传奇</title>
+		<link rel="icon" href="__PUBLIC__/imgs/home/title_img.png" type="image/x-icon"/>
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/book.css" />
 		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/home/hongmepage.css" />
 		<link rel="stylesheet" href="__PUBLIC__/css/home/ft-carousel.css" />
@@ -67,7 +68,7 @@
 				transition: all 0.3s ease-out;
 			}
 
-			img {
+			.example img {
 				border: none;
 				width: 100%;
 				height: 563px;
@@ -212,7 +213,7 @@
 				transition: all 0.3s ease-out;
 			}
 
-			img {
+			.example img {
 				border: none;
 				width: 328px;
 				height: 319px;
@@ -393,8 +394,8 @@
 						</span>
 						<span class="ercssvivozit shybanmccos">
 							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
-							<span class="nxttt shybanmccos eryscss shoyuyefonw">百度诉前员工跳槽今日头条违约，被劳动仲裁委驳回</span>
-							<span class="lyebxx shybanmccos">6月28日消息，国产智能手机厂商vivo，在本月上旬推出了搭载升降前置镜头设计的新品旗舰手机vivo NEX，引发了广泛关注。</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">智能家居市场持续升温，大数据时代信息安全风险不容忽视</span>
+							<span class="lyebxx shybanmccos">经过十几年的发展历程，智能家居将实现质的跨越，更好的为用户服务。</span>
 						</span>
 					</div>
 				</div>
@@ -405,8 +406,8 @@
 						</span>
 						<span class="ercssvivozit shybanmccos">
 							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
-							<span class="nxttt shybanmccos eryscss shoyuyefonw">百度诉前员工跳槽今日头条违约，被劳动仲裁委驳回</span>
-							<span class="lyebxx shybanmccos">6月28日消息，国产智能手机厂商vivo，在本月上旬推出了搭载升降前置镜头设计的新品旗舰手机vivo NEX，引发了广泛关注。</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">5G市场风起云涌 谁能领先起航</span>
+							<span class="lyebxx shybanmccos">国内三大运营商都已发布了5G白皮书，中国要对标国际，计划5G在2020年实现商用。</span>
 						</span>
 					</div>
 					<div class="hsoyyedispa">
@@ -415,8 +416,8 @@
 						</span>
 						<span class="ercssvivozit shybanmccos">
 							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
-							<span class="nxttt shybanmccos eryscss shoyuyefonw">百度诉前员工跳槽今日头条违约，被劳动仲裁委驳回</span>
-							<span class="lyebxx shybanmccos">6月28日消息，国产智能手机厂商vivo，在本月上旬推出了搭载升降前置镜头设计的新品旗舰手机vivo NEX，引发了广泛关注。</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">应急产业崛起 安防企业加油添力</span>
+							<span class="lyebxx shybanmccos">目前，我国应急产业体系已基本形成，其中安防成为重要的支撑力量，在提高防灾应急、安全生产和应急管理方面上有着不可替代的地位。安防企业也不断为推进应急产业发展加油添力。</span>
 						</span>
 					</div>
 				</div>
@@ -427,8 +428,8 @@
 						</span>
 						<span class="ercssvivozit shybanmccos">
 							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
-							<span class="nxttt shybanmccos eryscss shoyuyefonw">百度诉前员工跳槽今日头条违约，被劳动仲裁委驳回</span>
-							<span class="lyebxx shybanmccos">6月28日消息，国产智能手机厂商vivo，在本月上旬推出了搭载升降前置镜头设计的新品旗舰手机vivo NEX，引发了广泛关注。</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">这个夏季高温不断 安防产品怎么办？</span>
+							<span class="lyebxx shybanmccos">8月7日立秋，中央气象台继续发布高温黄色预警——这已是今年入夏以来，该台连续第25天发布高温预警。与此同时，全球大部分地区气温都较常年同期偏高，尤其北半球亚洲、欧洲、北美洲等地极端高温事件频发。</span>
 						</span>
 					</div>
 					<div class="hsoyyedispa">
@@ -437,8 +438,30 @@
 						</span>
 						<span class="ercssvivozit shybanmccos">
 							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
-							<span class="nxttt shybanmccos eryscss shoyuyefonw">百度诉前员工跳槽今日头条违约，被劳动仲裁委驳回</span>
-							<span class="lyebxx shybanmccos">6月28日消息，国产智能手机厂商vivo，在本月上旬推出了搭载升降前置镜头设计的新品旗舰手机vivo NEX，引发了广泛关注。</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">今年新手机尴尬：5G将至，消费者该不该现在买</span>
+							<span class="lyebxx shybanmccos">到底是现在花上1000美元将手中的旧手机更换成Galaxy Note 9，还是说等到明年5G革命到来后再对手机进行更新换代？</span>
+						</span>
+					</div>
+				</div>
+				<div class="hsoyyedispa shouedisbetween sanmartop">
+					<div class="hsoyyedispa">
+						<span class="longiyo">
+							<span class="lyxiak hsoyyedispa shoyedisali shoyedisjsscon lerbacoe">07</span>
+						</span>
+						<span class="ercssvivozit shybanmccos">
+							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">云存储解决方案时代 看安防人如何展宏图？</span>
+							<span class="lyebxx shybanmccos">随着非结构化数据的激增，大数据与云计算对后端的研发能力提出更高要求，如海量数据存储、查询、节点的负载均衡、备份容灾等都是急需解决的问题。有业内人士表示，未来集成商的规模将会扩大</span>
+						</span>
+					</div>
+					<div class="hsoyyedispa">
+						<span class="longiyo">
+							<span class="lyxiak hsoyyedispa shoyedisali shoyedisjsscon lerbacoe">08</span>
+						</span>
+						<span class="ercssvivozit shybanmccos">
+							<span class="vvdata shybanmccos sjjtime">2018-06-29</span>
+							<span class="nxttt shybanmccos eryscss shoyuyefonw">阿里云真的国内云计算第一吗？</span>
+							<span class="lyebxx shybanmccos">根据不同的统计口径和评判标准，阿里云的世界排名在第三到第五之间有所波动，但是在中国市场，阿里云在云计算领域是当之无愧的老大，不存在一丝丝争议。</span>
 						</span>
 					</div>
 				</div>

@@ -6,12 +6,136 @@
 	.shfu{margin-top: 70px;}
 	.imgshfu{width: 238px;height: 62px;background:url(../../imgs/home/servicetech/shwjfw.png) no-repeat;background-size: 100% auto;}
 	.tabbg{margin-top: 157px;}
-	
-	
-	
-	
-	
-	
+	.tabbg ul{width: 1249px;border-bottom: 1px solid #c9c9c9;height: 54px;padding: 0px 42px;border-top: 1px solid #c9c9c9;}
+	.tabbg ul li{font-size: 18px;color: #4c4c4c;margin-left: 144px;height: 54px;line-height: 54px;}
+	.sernvimg{width: 863px;height: 430px;background:url(../../imgs/home/servicetech/wjsernvre.png) no-repeat;background-size: 100% auto;}
+	.matopnvre{margin-top: 38px;}
+	.jgdnhezj{width: 237px;}
+	.wcjgdnhezj{width: 332px;}
+	.fusmzit{font-size: 21px;color: #333333;height: 50px;text-align: center;}
+	.wsshftx{font-size: 16px;color: #4c4c4c;line-height: 28px;}
+	.wcwdfb{width: 1224px;}
+	.fuxxxd{border-bottom: 1px solid #b7b8bb;width: 482px;}
+	.shfwwdzt{font-size: 24px;color: #4c4c4c;padding: 0px 33px;}
+	.disst{font-size: 24px;color: #989898;}
+	.hndttop{margin-top: 135px;}
+	.handiftjimg{width: 680px;height: 630px;background:url(../../imgs/home/servicetech/wjhnjxt.png) no-repeat;background-size: 100% auto;}
+	.shfwxxjgtop{margin-top: 233px;font-size: 24px;color: #4c4c4c;}
+	.aftsalse{font-size: 24px;color: #989898;}
+	.fzeqvytop{margin-top: 70px;}
+	.fzeqvytop th{font-size: 20px;color: #272727;height: 65px;}
+	.fzqyzit{width: 214px;}
+	.servdizhi{width: 540px;}
+	.servfzr{width: 207px;}
+	.servphone{width: 239px;}
+	.fdfrlxw{background-color: #eaeaea;}
+	.fzeqvytop td{font-size: 14px;color: #4c4c4c;height: 65px;text-align: center;}
+	.sertabboot{border-bottom: 1px solid #b7b8bb;width: 1259px;height: 40px;}
+	.newctbotmartop{margin-top: 187px;}
+	.xwwmdximg{margin-top: 37px;width: 1200px;height: 432px;background:url(../../imgs/home/servicetech/wjxwhqnmdx.png) no-repeat;background-size: 100% auto;}
+	.martopjsccser{margin-top: 175px;font-size: 30px;color: #181818;}
+	.jsccserxiq{height: 8px;}
+	.jsccserxiq div{width: 79px;border-bottom: 1px solid #080500;}
+	.jsccseryq{width: 8px;height: 8px;background-color: #9e9ba0;border-radius: 50%;margin: 0px 7px;}
+	.hedservejsccwc{margin-top: 7px;}
+	.wfjyfht{font-size: 22px;color: #181818;}
+	.sergzsetop{margin-top: 29px;}
+	.serbjbimg{margin-top: 78px;width: 898px;height: 429px;background:url(../../imgs/home/servicetech/wjserbjb.png) no-repeat;background-size: 100% auto;}
+	.rycctopser{margin-top: 87px;}
+	.wfjzdzmry{font-size: 24px;color: #181818;line-height: 47px;}
+	.topwfjzdz{margin-top: 33px;}
+	.fwcnmartop{margin-top: 215px;}
+	.xianfuwcn{height: 30px;width: 511px;}
+	.xinecanfuwcn{border-bottom: 1px solid #9f9f9f;width: 100%;}
+	.fiwchnzit{font-size: 30px;color: #181818;margin: 0px 15px;}
+	.srcommitz{font-size: 20px;color: #181818;}
+	.fwxlimg{margin-top: 94px;width: 892px;height: 428px;background:url(../../imgs/home/servicetech/wjwfxl.png) no-repeat;background-size: 100% auto;}
+	.martopgsbcx{margin-top: 85px;}
+	.wgsbcx{font-size: 14px;color: #696969;line-height: 24px;}
+	.serwxfutop{margin-top: 203px;font-size: 30px;color: #181818;}
+	.wfjdsyzit{font-size: 21px;color: #181818;line-height: 33px;}
+	.topwfjdsy{margin-top: 32px;}
+	.paddjfwxff{padding: 0px 0px 0px 11px;margin-top: 121px;}
+	.wxfujfryimg{width: 526px;height: 334px;background:url(../../imgs/home/servicetech/wjwxfujf.png) no-repeat;background-size: 100% auto;}
+	.wxfwdizildrft{margin-left: 37px;}
+	.imgwxtp{width: 281px;height: 242px;background:url(../../imgs/home/servicetech/wjwxfudpabg.png) no-repeat;background-size: 100% auto;}
+	.wxfulsdi{width: 3px;height: 20px;background-color: #7fe1e2;}
+	.wxfufwsx{font-size: 22px;color: #333333;}
+	.yhxfgzs{width: 240px;font-size: 16px;color: #6e6e6e;line-height: 24px;margin-top: 23px;}
+	.leftwxfufwsx{margin-left: 8px;}
+	.lftewxfwwc{margin-left: 34px;}
+	.wxfuhsbtx{border-bottom: 1px solid #b7b8bb;margin-top: 59px;width: 100%;}
+	.fubxsek{height: 20px;width: 3px;background-color: #7f8fe2;}
+	.fuwbxffszit{font-size: 22px;color: #181818;margin-left: 5px;}
+	.mtopfwsf{margin-top: 27px;}
+	.fxbxrxdhtop{margin-top: 8px;}
+	.dxdhzitbx{font-size: 15px;color: #5e5e5e;line-height: 24px;width: 516px;}
+	.lefjanzi{margin-left: 50px;}
+	.fwbxnaziimg{width: 289px;height: 243px;background:url(../../imgs/home/servicetech/wjnanzibax.png) no-repeat;background-size: 100% auto;}
+	.lisbxkleft{margin-left: 37px;margin-top: 57px;}
+	.widsesdu{width: 3px;height: 20px;background-color: #c9e27f;}
+	.fuwubzzit{font-size: 22px;color: #181818;height: 39px;}
+	.fuwubzzitleft{margin-left: 7px;}
+	.wgs{font-size: 16px;color: #6e6e6e;line-height: 24px;width: 240px;}
+	.wfjsychbb{margin-top: 63px;}
+	.topwfjsychbb{font-size: 14px;color: #696969;height: 24px;}
+	.bbximgdz{margin-top: 30px;width: 892px;height: 428px;background:url(../../imgs/home/servicetech/bbxwjdz.png) no-repeat;background-size: 100% auto;}
+	.bbximgjt{margin-top: 97px;width: 15px;height: 82px;background:url(../../imgs/home/servicetech/bbxwjjt.png) no-repeat;background-size: 100% auto;}
+	.xmgzsb{margin-top: 15px;font-size: 14px;color: #696969;height: 24px;}
+	.sydyx{font-size: 14px;color: #696969;height: 34px;}
+	.xihkwc{line-height: 14px;height: 14px;}
+	.xiahsfk{width: 9px;height: 9px;background-color: #7d7d7d;}
+	.bbxqn{font-size: 14px;color: #696969;margin-left: 8px;}
+	.bbxqnhei{height: 24px;}
+	.xiarimggj{margin-top: 88px;width: 892px;height: 428px;background:url(../../imgs/home/servicetech/wjxiaorgj.png) no-repeat;background-size: 100% auto;}
+	.endbbxqx{width: 695px;border-bottom: 1px solid #000000;}
+	.endzit{width: 139px;height: 54px;font-size: 20px;color: #181818;box-shadow:0px 0px 8px #cfcfd0;}
+	.topendzit{margin-top: 52px;}
+	.cjwentiimg{margin-top: 160px;width: 238px;height: 62px;background:url(../../imgs/home/servicetech/wjcjwt.png) no-repeat;background-size: 100% auto;}
+	.padcjwd{margin-top: 87px;width: 640px;}
+	.ynjdyy{width: 44px;height: 44px;border: 2px solid #8f8f8f;border-radius: 50%;}
+	.ynjdyynei{width: 34px;height: 34px;border: 2px solid #8f8f8f;border-radius: 50%;font-size: 18px;color: #333333;}
+	.ynjdxiany{width: 6px;height: 142px;background-color: #898989;}
+	.ynjdlar{width: 48px;}
+	.erheiynjd{height: 116px;}
+	.cbwi{width: 99px;height: 99px;background:url(../../imgs/home/servicetech/wjynjdcb.png) no-repeat;background-size: 100% auto;}
+	.sanheiynjd{height: 134px;}
+	.siheiynjd{height: 151px;}
+	.leftmaprynjd{margin-left: 110px;width: 426px;}
+	.puroynjd{font-size: 14px;color: #383737;line-height: 32px;}
+	.ymjdcsxl{font-size: 12px;color: #010101;line-height: 22px;}
+	.themiss{font-size: 12px;color: #000000;line-height: 21px;margin-top: 8px;}
+	.topmmismtch{margin-top: 40px;}
+	.santopmmismtch{margin-top: 93px;}
+	.sitopmmismtch{margin-top: 78px;}
+	.yhpxnhn{margin-top: 37px;width: 1200px;height: 432px;background:url(../../imgs/home/servicetech/wjyhpxnhn.png) no-repeat;background-size: 100% auto;}
+	.ropyhpx{margin-top: 138px;}
+	.yhpexian{width: 408px;}
+	.yhpxzti{font-size: 30px;color: #181818;margin: 0px 13px;height: 37px;}
+	.yhpxxianhdswc{width: 408px;height: 30px;}
+	.yhpxxianhds{width: 100%;border-bottom: 1px solid #8e8e8e;}
+	.yhpzuserw{font-size: 20px;color: #181818;}
+	.yhpxrypx{font-size: 14px;color: #696969;line-height: 24px;margin-top: 24px;}
+	.yhpxyyjspx{font-size: 14px;color: #696969;line-height: 24px;}
+	.yhpxpxdx{font-size: 24px;color: #4c4c4c;line-height: 31px;margin-top: 53px;}
+	.yhpxgdsh{font-size: 16px;color: #696969;height: 44px;}
+	.yhpxdnxnr{width: 892px;height: 428px;background:url(../../imgs/home/servicetech/wjyhpxdnyz.png) no-repeat;background-size: 100% auto;}
+	.yhpxerpxdx{font-size: 14px;color: #696969;line-height: 24px;}
+	.martopyhpxerpxdx{margin-top: 55px;}
+	.topyhpxhskk{margin-top: 89px;}
+	.yhpxhskk{width: 889px;height: 57px;background-color: #c5c5c5;}
+	.maroppxdddd{margin-top: 143px;height: 39px;}
+	.yhpxlspxjh{font-size: 16px;color: #696969;line-height: 24px;}
+	.topyhpxsbcj{margin-top: 57px;}
+	.yhpxdinanwk{width: 36px;height: 36px;border: 1px solid #8e8e8e;top:28px;left: -20px;background-color: white;}
+	.yhpxdinanimg{width: 34px;height: 28px;background:url(../../imgs/home/servicetech/wjyhoxdiann.png) no-repeat;background-size: 100% auto;}
+	.yhpxjzpxwk{width: 260px;height: 377px;border: 1px solid #797979;padding: 0px 13px;}
+	.yhpxjzox{margin-top: 34px;font-size: 24px;color: #696969;margin-left: 14px;}
+	.yhpxtdsj{height: 315px;}
+	.yhpxzzxg{font-size: 16px;color: #696969;line-height: 24px;text-align: center;}
+	.leftls{margin-left: 52px;}
+	.yhpxlaosimg{width: 29px;height: 29px;background:url(../../imgs/home/servicetech/wjlaosjimg.png) no-repeat;background-size: 100% auto;}
+	.yhpxhzrrimg{width: 26px;height: 32px;background:url(../../imgs/home/servicetech/wjhzrrimg.png) no-repeat;background-size: 100% auto;}
 	
 	
 	
@@ -25,7 +149,142 @@
 	.shfu{margin-top: 49px;}
 	.imgshfu{width: 168px;height: 44px;background:url(../../imgs/home/servicetech/shwjfw.png) no-repeat;background-size: 100% auto;}
 	.tabbg{margin-top: 111px;}
+	
+	.tabbg ul{width: 886px;border-bottom: 1px solid #c9c9c9;height: 38px;padding: 0px 29px;border-top: 1px solid #c9c9c9;}
+	.tabbg ul li{font-size: 12px;color: #4c4c4c;margin-left: 102px;height: 38px;line-height: 38px;}
+	.sernvimg{width: 612px;height: 305px;background:url(../../imgs/home/servicetech/wjsernvre.png) no-repeat;background-size: 100% auto;}
+	.matopnvre{margin-top: 26px;}
+	.jgdnhezj{width: 168px;}
+	.wcjgdnhezj{width: 235px;}
+	.fusmzit{font-size: 14px;color: #333333;height: 35px;text-align: center;}
+	.wsshftx{font-size: 11px;color: #4c4c4c;line-height: 19px;}
+	.wcwdfb{width: 869px;}
+	.fuxxxd{border-bottom: 1px solid #b7b8bb;width: 342px;}
+	.shfwwdzt{font-size: 17px;color: #4c4c4c;padding: 0px 23px;}
+	.disst{font-size: 17px;color: #989898;}
+	.hndttop{margin-top: 95px;}
+	.handiftjimg{width: 482px;height: 447px;background:url(../../imgs/home/servicetech/wjhnjxt.png) no-repeat;background-size: 100% auto;}
+	.shfwxxjgtop{margin-top: 165px;font-size: 17px;color: #4c4c4c;}
+	.aftsalse{font-size: 17px;color: #989898;}
+	.fzeqvytop{margin-top: 49px;}
+	.fzeqvytop th{font-size: 14px;color: #272727;height: 46px;}
+	.fzqyzit{width: 151px;}
+	.servdizhi{width: 383px;}
+	.servfzr{width: 146px;}
+	.servphone{width: 169px;}
+	.fdfrlxw{background-color: #eaeaea;}
+	.fzeqvytop td{font-size: 10px;color: #4c4c4c;height: 46px;text-align: center;}
+	.sertabboot{border-bottom: 1px solid #b7b8bb;width: 893px;height: 28px;}
+	.newctbotmartop{margin-top: 132px;}
+	.xwwmdximg{margin-top: 26px;width: 852px;height: 306px;background:url(../../imgs/home/servicetech/wjxwhqnmdx.png) no-repeat;background-size: 100% auto;}
+	.martopjsccser{margin-top: 124px;font-size: 21px;color: #181818;}
+	.jsccserxiq{height: 5px;}
+	.jsccserxiq div{width: 56px;border-bottom: 1px solid #080500;}
+	.jsccseryq{width: 5px;height: 5px;background-color: #9e9ba0;border-radius: 50%;margin: 0px 5px;}
+	.hedservejsccwc{margin-top: 5px;}
+	.wfjyfht{font-size: 15px;color: #181818;}
+	.sergzsetop{margin-top: 20px;}
+	.serbjbimg{margin-top: 55px;width: 637px;height: 304px;background:url(../../imgs/home/servicetech/wjserbjb.png) no-repeat;background-size: 100% auto;}
+	.rycctopser{margin-top: 61px;}
+	.wfjzdzmry{font-size: 17px;color: #181818;line-height: 33px;}
+	.topwfjzdz{margin-top: 23px;}
+	.fwcnmartop{margin-top: 152px;}
+	.xianfuwcn{height: 21px;width: 362px;}
+	.xinecanfuwcn{border-bottom: 1px solid #9f9f9f;width: 100%;}
+	.fiwchnzit{font-size: 21px;color: #181818;margin: 0px 10px;}
+	.srcommitz{font-size: 14px;color: #181818;}
+	.fwxlimg{margin-top: 66px;width: 633px;height: 303px;background:url(../../imgs/home/servicetech/wjwfxl.png) no-repeat;background-size: 100% auto;}
+	.martopgsbcx{margin-top: 60px;}
+	.wgsbcx{font-size: 10px;color: #696969;line-height: 17px;}
+	.serwxfutop{margin-top: 144px;font-size: 21px;color: #181818;}
+	.wfjdsyzit{font-size: 14px;color: #181818;line-height: 23px;}
+	.topwfjdsy{margin-top: 22px;}
+	.paddjfwxff{padding: 0px 0px 0px 7px;margin-top: 85px;}
+	.wxfujfryimg{width: 373px;height: 237px;background:url(../../imgs/home/servicetech/wjwxfujf.png) no-repeat;background-size: 100% auto;}
+	.wxfwdizildrft{margin-left: 26px;}
+	.imgwxtp{width: 199px;height: 171px;background:url(../../imgs/home/servicetech/wjwxfudpabg.png) no-repeat;background-size: 100% auto;}
+	.wxfulsdi{width: 2px;height: 14px;background-color: #7fe1e2;}
+	.wxfufwsx{font-size: 15px;color: #333333;}
+	.yhxfgzs{width: 170px;font-size: 11px;color: #6e6e6e;line-height: 17px;margin-top: 16px;}
+	.leftwxfufwsx{margin-left: 5px;}
+	.lftewxfwwc{margin-left: 24px;}
+	.wxfuhsbtx{border-bottom: 1px solid #b7b8bb;margin-top: 41px;width: 100%;}
+	.fubxsek{height: 14px;width: 2px;background-color: #7f8fe2;}
+	.fuwbxffszit{font-size: 15px;color: #181818;margin-left: 3px;}
+	.mtopfwsf{margin-top: 19px;}
+	.fxbxrxdhtop{margin-top: 5px;}
+	.dxdhzitbx{font-size: 10px;color: #5e5e5e;line-height: 17px;width: 366px;}
+	.lefjanzi{margin-left: 35px;}
+	.fwbxnaziimg{width: 205px;height: 172px;background:url(../../imgs/home/servicetech/wjnanzibax.png) no-repeat;background-size: 100% auto;}
+	.lisbxkleft{margin-left: 26px;margin-top: 40px;}
+	.widsesdu{width: 2px;height: 14px;background-color: #c9e27f;}
+	.fuwubzzit{font-size: 15px;color: #181818;height: 27px;}
+	.fuwubzzitleft{margin-left: 5px;}
+	.wgs{font-size: 11px;color: #6e6e6e;line-height: 17px;width: 170px;}
+	.wfjsychbb{margin-top: 44px;}
+	.topwfjsychbb{font-size: 10px;color: #696969;height: 17px;}
+	.bbximgdz{margin-top: 21px;width: 633px;height: 303px;background:url(../../imgs/home/servicetech/bbxwjdz.png) no-repeat;background-size: 100% auto;}
+	.bbximgjt{margin-top: 68px;width: 10px;height: 58px;background:url(../../imgs/home/servicetech/bbxwjjt.png) no-repeat;background-size: 100% auto;}
+	.xmgzsb{margin-top: 10px;font-size: 10px;color: #696969;height: 17px;}
+	.sydyx{font-size: 10px;color: #696969;height: 24px;}
+	.xihkwc{line-height: 10px;height: 10px;}
+	.xiahsfk{width: 6px;height: 6px;background-color: #7d7d7d;}
+	.bbxqn{font-size: 10px;color: #696969;margin-left: 5px;}
+	.bbxqnhei{height: 17px;}
+	.xiarimggj{margin-top: 62px;width: 633px;height: 303px;background:url(../../imgs/home/servicetech/wjxiaorgj.png) no-repeat;background-size: 100% auto;}
+	.endbbxqx{width: 493px;border-bottom: 1px solid #000000;}
+	.endzit{width: 98px;height: 38px;font-size: 14px;color: #181818;box-shadow:0px 0px 5px #cfcfd0;}
+	.topendzit{margin-top: 36px;}
+	.cjwentiimg{margin-top: 113px;width: 168px;height: 44px;background:url(../../imgs/home/servicetech/wjcjwt.png) no-repeat;background-size: 100% auto;}
+	.padcjwd{margin-top: 61px;width: 454px;}
+	.ynjdyy{width: 31px;height: 31px;border: 2px solid #8f8f8f;border-radius: 50%;}
+	.ynjdyynei{width: 24px;height: 24px;border: 2px solid #8f8f8f;border-radius: 50%;font-size: 12px;color: #333333;}
+	.ynjdxiany{width: 4px;height: 100px;background-color: #898989;}
+	.ynjdlar{width: 34px;}
+	.erheiynjd{height: 82px;}
+	.cbwi{width: 70px;height: 70px;background:url(../../imgs/home/servicetech/wjynjdcb.png) no-repeat;background-size: 100% auto;}
+	.sanheiynjd{height: 95px;}
+	.siheiynjd{height: 107px;}
+	.leftmaprynjd{margin-left: 78px;width: 302px;}
+	.puroynjd{font-size: 10px;color: #383737;line-height: 22px;}
+	.ymjdcsxl{font-size: 8px;color: #010101;line-height: 15px;}
+	.themiss{font-size: 8px;color: #000000;line-height: 14px;margin-top: 5px;}
+	.topmmismtch{margin-top: 28px;}
+	.santopmmismtch{margin-top: 66px;}
+	.sitopmmismtch{margin-top: 55px;}
+	.yhpxnhn{margin-top: 26px;width: 852px;height: 306px;background:url(../../imgs/home/servicetech/wjyhpxnhn.png) no-repeat;background-size: 100% auto;}
+	.ropyhpx{margin-top: 97px;}
+	.yhpexian{width: 289px;}
+	.yhpxzti{font-size: 21px;color: #181818;margin: 0px 9px;height: 26px;}
+	.yhpxxianhdswc{width: 289px;height: 21px;}
+	.yhpxxianhds{width: 100%;border-bottom: 1px solid #8e8e8e;}
+	.yhpzuserw{font-size: 14px;color: #181818;}
+	.yhpxrypx{font-size: 10px;color: #696969;line-height: 17px;margin-top: 17px;}
+	.yhpxyyjspx{font-size: 10px;color: #696969;line-height: 17px;}
+	.yhpxpxdx{font-size: 17px;color: #4c4c4c;line-height: 22px;margin-top: 37px;}
+	.yhpxgdsh{font-size: 11px;color: #696969;height: 31px;}
+	.yhpxdnxnr{width: 633px;height: 303px;background:url(../../imgs/home/servicetech/wjyhpxdnyz.png) no-repeat;background-size: 100% auto;}
+	.yhpxerpxdx{font-size: 10px;color: #696969;line-height: 17px;}
+	.martopyhpxerpxdx{margin-top: 39px;}
+	.topyhpxhskk{margin-top: 63px;}
+	.yhpxhskk{width: 631px;height: 40px;background-color: #c5c5c5;}
+	.maroppxdddd{margin-top: 101px;height: 27px;}
+	.yhpxlspxjh{font-size: 11px;color: #696969;line-height: 17px;}
+	.topyhpxsbcj{margin-top: 40px;}
+	.yhpxdinanwk{width: 25px;height: 25px;border: 1px solid #8e8e8e;top:19px;left: -14px;background-color: white;}
+	.yhpxdinanimg{width: 24px;height: 19px;background:url(../../imgs/home/servicetech/wjyhoxdiann.png) no-repeat;background-size: 100% auto;}
+	.yhpxjzpxwk{width: 184px;height: 267px;border: 1px solid #797979;padding: 0px 9px;}
+	.yhpxjzox{margin-top: 24px;font-size: 17px;color: #696969;margin-left: 10px;}
+	.yhpxtdsj{height: 223px;}
+	.yhpxzzxg{font-size: 11px;color: #696969;line-height: 17px;text-align: center;}
+	.leftls{margin-left: 36px;}
+	.yhpxlaosimg{width: 20px;height: 20px;background:url(../../imgs/home/servicetech/wjlaosjimg.png) no-repeat;background-size: 100% auto;}
+	.yhpxhzrrimg{width: 18px;height: 22px;background:url(../../imgs/home/servicetech/wjhzrrimg.png) no-repeat;background-size: 100% auto;}
+	
+	
+	
 }
-
-
+.tabbg ul li:first-child{margin-left: 0;}
+.fuwxxco{color: #2691fd !important;}
+.serdispa{display: none;}
 

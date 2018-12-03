@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;font-family:"宋体",sans-serif,Arial,"Times New Roman";font-size:12px;border:0px;}
+/* 当展现页面的宽度大于1400px时的样式。 */
+@media screen and (min-width: 1400px){
+	.hyzxhst{background-color: #000000;}
+	.hyzxjsyxwg{font-size: 30px;color: #181818;margin-top: 149px;height: 37px;}
+	.hyzxjiangsu{font-size: 20px;color: #181818;}
+	.hyzxzwgj{margin-top: 42px;width: 990px;height: 110px;border: 1px solid #298af7;}
+	.hyzxhsxk{width: 4px;height: 4px;background-color: #000000;}
+	.yighyzxxktop{top: 0px;left: 0px;}
+	.erghyzxxktop{top: 0px;left: 496px !important;}
+	.sanghyzxxktop{top: 0px;left: 984px !important;}
+	.sighyzxxktop{top: 104px !important;left: 496px !important;}
+	.wughyzxxktop{top: 104px !important;left: 984px !important;}
+	.gjwjdwzy{font-size: 16px;color: #000000;line-height: 22px;}
+	.hyzxsz{width: 313px;height: 98px;}
+	.imghyzxsz{width: 16px;height: 16px;background:url(../../imgs/home/industry/wjhyzxsz.png) no-repeat;background-size: 100% auto;}
+	.hyzxriq{font-size: 14px;color: #000000;margin-left: 11px;}
+	.imghyzxyj{margin-left: 37px;width: 26px;height: 14px;background:url(../../imgs/home/industry/wjhyzxyjj.png) no-repeat;background-size: 100% auto;}
+	.cihycxmarlef{margin-left: 6px;}
+	.imghyzxxvz{margin-left: 31px;width: 16px;height: 16px;background:url(../../imgs/home/industry/wjxzimghyzx.png) no-repeat;background-size: 100% auto;}
+	.lanseboder{border-top: 2px solid #8abdf6;margin-left: 32px;width: 554px;}
+	.shenkseborder{border-top: 2px solid #298af7;width: 42px;}
+	.fangxkzhj{width: 6px;height: 6px;transform:rotate(45deg);background-color: #298af7;}
+	.heihyzxwuj{height: 5px;}
+	.leftwidt{width: 555px;margin-left: 0px;}
+	.topwanlsdhyzx{margin-top: 75px;}
+	.hyzxjaanggus{font-size: 14px;color: #696969;line-height: 24px;}
+	.topctkjhyzx{margin-top: 46px;}
+	.hyzximgrgzn{margin-top: 83px;width: 892px;height: 428px;background:url(../../imgs/home/industry/rgznwj.png) no-repeat;background-size: 100% auto;}
+	.tophyzxjjgcls{margin-top: 54px;}
+	.hyzxjjjkwj{font-size: 14px;color: #696969;line-height: 24px;}
+	.hyzximgwach{margin-top: 75px;width: 892px;height: 428px;background:url(../../imgs/home/industry/wjdatajhyzx.png) no-repeat;background-size: 100% auto;}
+	.newctbotmartop{margin-top: 181px;}
+}
+
+/* 当展现页面的宽度大于1000px且小于1400px时，的样式。 */
+@media screen and (min-width: 100px) and (max-width: 1400px) {
+	.hyzxhst{background-color: #000000;}
+	.hyzxjsyxwg{font-size: 21px;color: #181818;margin-top: 105px;height: 26px;}
+	.hyzxjiangsu{font-size: 14px;color: #181818;}
+	.hyzxzwgj{margin-top: 29px;width: 702px;height: 78px;border: 1px solid #298af7;}
+	.hyzxhsxk{width: 4px;height: 4px;background-color: #000000;}
+	.yighyzxxktop{top: 0px;left: 0px;}
+	.erghyzxxktop{top: 0px;left: 352px !important;}
+	.sanghyzxxktop{top: 0px;left: 698px !important;}
+	.sighyzxxktop{top: 73px !important;left: 352px !important;}
+	.wughyzxxktop{top: 73px !important;left: 698px !important;}
+	.gjwjdwzy{font-size: 11px;color: #000000;line-height: 15px;}
+	.hyzxsz{width: 222px;height: 69px;}
+	.imghyzxsz{width: 11px;height: 11px;background:url(../../imgs/home/industry/wjhyzxsz.png) no-repeat;background-size: 100% auto;}
+	.hyzxriq{font-size: 10px;color: #000000;margin-left: 7px;}
+	.imghyzxyj{margin-left: 26px;width: 18px;height: 14px;background:url(../../imgs/home/industry/wjhyzxyjj.png) no-repeat;background-size: 100% auto;}
+	.cihycxmarlef{margin-left: 4px;}
+	.imghyzxxvz{margin-left: 22px;width: 11px;height: 11px;background:url(../../imgs/home/industry/wjxzimghyzx.png) no-repeat;background-size: 100% auto;}
+	.lanseboder{border-top: 2px solid #8abdf6;margin-left: 22px;width: 393px;}
+	.shenkseborder{border-top: 2px solid #298af7;width: 29px;}
+	.fangxkzhj{width: 4px;height: 4px;transform:rotate(45deg);background-color: #298af7;}
+	.heihyzxwuj{height: 3px;}
+	.leftwidt{width: 394px;margin-left: 0px;}
+	.topwanlsdhyzx{margin-top: 53px;}
+	.hyzxjaanggus{font-size: 10px;color: #696969;line-height: 17px;}
+	.topctkjhyzx{margin-top: 32px;}
+	.hyzximgrgzn{margin-top: 58px;width: 633px;height: 303px;background:url(../../imgs/home/industry/rgznwj.png) no-repeat;background-size: 100% auto;}
+	.tophyzxjjgcls{margin-top: 38px;}
+	.hyzxjjjkwj{font-size: 10px;color: #696969;line-height: 17px;}
+	.hyzximgwach{margin-top: 53px;width: 633px;height: 303px;background:url(../../imgs/home/industry/wjdatajhyzx.png) no-repeat;background-size: 100% auto;}
+	.newctbotmartop{margin-top: 128px;}
+}
+.wenzitextali{text-align: center;}
+
+
