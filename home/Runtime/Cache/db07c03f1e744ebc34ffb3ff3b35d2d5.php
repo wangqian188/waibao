@@ -144,7 +144,7 @@
 										</div>
 										<div class="palses"><textarea placeholder="PLEASE WRITE HERE..."></textarea></div>
 									</div>
-									<div class="sendcss bottomposabso">SEND</div>
+									<div class="sendcss bottomposabso shouxiao">SEND</div>
 								</div>
 							</div>
 						</div>
@@ -197,7 +197,30 @@
 				</div>
 			</div>
 		</div>
-
+		
+		<!-- 遮罩层 -->
+		<div class="zhezhaoce wanglawge serdispa">
+			<div class="zzcneir">
+				<div class="bottomposrela husebankd">
+					<div class="lartjwc hsoyyedispa bottomdisjust bottomposabso">
+						<div class="tkhsqimg"></div>
+					</div>
+					<div class="bprba wanglawge bottomposabso">
+						<ul class="wanchjeg hsoyyedispa wanglawge">
+							<li>提</li>
+							<li>交</li>
+							<li>完</li>
+							<li>成</li>
+						</ul>
+					</div>
+				</div>
+				<div class="ganx wanglawge">感谢您的提交，我们会尽快联系您提供服务与帮助</div>
+				<div class="qdla wanglawge">
+					<div class="qd wanglawge shouxiao">确定</div>
+				</div>
+				<div class="topmase wanglawge">SERVICE AND SUOOORT</div>
+			</div>
+		</div>
 
 	</body>
 </html>
@@ -231,6 +254,15 @@
 				window.location.href="__APP__/Contactus/index";
 			}
 		}
+	});
+	
+	$(".sendcss").on("click", function() {
+		$("body").css('overflow','hidden');
+		$(".zhezhaoce").removeClass("serdispa");
+	});
+	$(".qd").on("click", function() {
+		$("body").css('overflow','auto');
+		$(".zhezhaoce").addClass("serdispa");
 	});
 	
 </script>

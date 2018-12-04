@@ -517,8 +517,8 @@
 				</div>
 				<div class="lijehui shoueposrela waimaleft">
 					<div class="hsoyyedispa shoyedisjsscon"><span class="dingbu ergebacks"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="touximg"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">李军辉</span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="touxlnimg"></span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">鲁宁</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="gcs shybanmccos">工程师</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos husexian"></span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos zhunye">某某专业</span></div>
@@ -526,8 +526,8 @@
 				</div>
 				<div class="lijehui shoueposrela waimaleft">
 					<div class="hsoyyedispa shoyedisjsscon"><span class="dingbu sangebacks"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="touximg"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">李军辉</span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="touxydsimg"></span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">于铁锁</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="gcs shybanmccos">工程师</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos husexian"></span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos zhunye">某某专业</span></div>
@@ -535,8 +535,8 @@
 				</div>
 				<div class="lijehui shoueposrela waimaleft">
 					<div class="hsoyyedispa shoyedisjsscon"><span class="dingbu sigebacks"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="touximg"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">李军辉</span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="touxjyaimg"></span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">江永安</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="gcs shybanmccos">工程师</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos husexian"></span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos zhunye">某某专业</span></div>
@@ -544,8 +544,8 @@
 				</div>
 				<div class="lijehui shoueposrela waimaleft">
 					<div class="hsoyyedispa shoyedisjsscon"><span class="dingbu ergebacks"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="touximg"></span></div>
-					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">李军辉</span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="touxjjfimg"></span></div>
+					<div class="hsoyyedispa shoyedisjsscon"><span class="lyhj shybanmccos">靳俊飞</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="gcs shybanmccos">工程师</span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos husexian"></span></div>
 					<div class="hsoyyedispa shoyedisjsscon"><span class="shybanmccos zhunye">某某专业</span></div>
@@ -560,24 +560,24 @@
 			<div class="gywidth shoueydisbloack">
 				<div class="hsoyyedispa">
 					<span class="kubabo spanmaleft"></span>
-					<span class="kubabo spanmaleft"></span>
-					<span class="kubabo spanmaleft"></span>
-					<span class="kubabo spanmaleft"></span>
-					<span class="kubabo spanmaleft"></span>
+					<span class="kubabo spanmaleft tanimg"></span>
+					<span class="kubabo spanmaleft yamimg"></span>
+					<span class="kubabo spanmaleft honimg"></span>
+					<span class="kubabo spanmaleft hitimg"></span>
 				</div>
 				<div class="hsoyyedispa erspanmaleft">
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
+					<span class="kubabo fzimg"></span>
+					<span class="kubabo ibmimg"></span>
+					<span class="kubabo sonimg"></span>
+					<span class="kubabo hpimg"></span>
+					<span class="kubabo poimg"></span>
 				</div>
 				<div class="hsoyyedispa sanspanmaleft">
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
-					<span class="kubabo"></span>
+					<span class="kubabo taimg"></span>
+					<span class="kubabo cicimg"></span>
+					<span class="kubabo leimg"></span>
+					<span class="kubabo zgimg"></span>
+					<span class="kubabo cncimg"></span>
 				</div>
 			</div>
 		</div>

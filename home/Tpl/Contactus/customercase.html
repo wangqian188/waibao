@@ -183,9 +183,9 @@
 													<div class="timeimgjdal"></div>
 													<div class="khjdal">时间/2014年11月施工在建</div>
 												</div>
-												<!-- <div class="hentxjdalwf">
-													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
-												</div> -->
+												<div class="hentxjdalwf bottomposrela">
+													<div class="hentxjdal ggztbx bottomposabso">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div>
 											</div>
 										</div>
 										<div class="lefjdalheny">
@@ -242,9 +242,9 @@
 													<div class="timeimgjdal"></div>
 													<div class="khjdal">时间/2014年11月施工在建</div>
 												</div>
-												<!-- <div class="hentxjdalwf">
-													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
-												</div> -->
+												<div class="hentxjdalwf bottomposrela">
+													<div class="hentxjdal ggztbx bottomposabso">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div>
 											</div>
 										</div>
 										<div class="lefjdalheny">
@@ -301,9 +301,9 @@
 													<div class="timeimgjdal"></div>
 													<div class="khjdal">时间/2014年11月施工在建</div>
 												</div>
-												<!-- <div class="hentxjdalwf">
-													<div class="hentxjdal ggztbx">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
-												</div> -->
+												<div class="hentxjdalwf bottomposrela">
+													<div class="hentxjdal ggztbx bottomposabso">河南信通置业信通金融中心售楼处及智能化系统安装项目</div>
+												</div>
 											</div>
 										</div>
 										<div class="lefjdalheny">

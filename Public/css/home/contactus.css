@@ -23,6 +23,20 @@
 	.baidudicimg{width: 100%;height: 499px;background:url(../../imgs/home/contactus/bdwjdt.png) no-repeat;background-size: 100% auto;}
 	.martopbadudi{margin-top: 56px;}
 	.addfisutop{margin-top: 143px;}
+	.zzcneir{width: 670px;height: 312px;border-top: 1px solid #898989;background-color: #ffffff;}
+	.lartjwc{width: 100%;height: 135px;top:-74px;left: 0px;}
+	.husebankd{width: 100%;height: 74px;}
+	.tkhsqimg{width: 139px;height: 144px;background:url(../../imgs/home/contactus/tkhsq.png) no-repeat;background-size: 100% auto;}
+	
+	.wanchjeg{width: 347px;height: 40px;border: 1px solid #898989;background-color: #ffffff;}
+	.wanchjeg li{list-style-type:none;font-size: 22px;color: #000000;width: 55px;line-height: 40px;text-align: center;position: relative;}
+	.wanchjeg li::after{content:"";display: block;width: 2px;height: 20px;background-color: #7f7f7f;position: absolute;right: 0px;top: 50%;margin-top: -10px;}
+	.wanchjeg li:last-child::after{display: none;}
+	.bprba{width: 100%;height: 40px;top:-20px;left: 0px;}
+	.ganx{width: 100%;height: 120px;font-size: 24px;color: #000000;}
+	.qdla{width: 100%;}
+	.qd{border: 1px solid #aaaaaa;width: 166px;height: 37px;font-size: 14px;color: #000000;border-radius: 40px;}
+	.topmase{margin-top: 23px;font-size: 10px;color: #000000;-moz-transform:scale(0.8);-webkit-transform:scale(0.8);-o-transform:scale(0.8);}
 	
 	
 	
@@ -52,4 +66,22 @@
 	.baidudicimg{width: 100%;height: 354px;background:url(../../imgs/home/contactus/bdwjdt.png) no-repeat;background-size: 100% auto;}
 	.martopbadudi{margin-top: 39px;}
 	.addfisutop{margin-top: 101px;}
+	.zzcneir{width: 475px;height: 221px;border-top: 1px solid #898989;background-color: #ffffff;}
+	.lartjwc{width: 100%;height: 95px;top:-52px;left: 0px;}
+	.husebankd{width: 100%;height: 52px;}
+	.tkhsqimg{width: 98px;height: 102px;background:url(../../imgs/home/contactus/tkhsq.png) no-repeat;background-size: 100% auto;}
+	.wanchjeg{width: 246px;height: 28px;border: 1px solid #898989;background-color: #ffffff;}
+	.wanchjeg li{list-style-type:none;font-size: 15px;color: #000000;width: 39px;line-height: 28px;text-align: center;position: relative;}
+	.wanchjeg li::after{content:"";display: block;width: 2px;height: 14px;background-color: #7f7f7f;position: absolute;right: 0px;top: 50%;margin-top: -7px;}
+	.wanchjeg li:last-child::after{display: none;}
+	.bprba{width: 100%;height: 28px;top:-14px;left: 0px;}
+	.ganx{width: 100%;height: 85px;font-size: 17px;color: #000000;}
+	.qdla{width: 100%;}
+	.qd{border: 1px solid #aaaaaa;width: 117px;height: 26px;font-size: 10px;color: #000000;border-radius: 28px;}
+	.topmase{margin-top: 16px;font-size: 7px;color: #000000;-moz-transform:scale(0.8);-webkit-transform:scale(0.8);-o-transform:scale(0.8);}
+	
+	
+	
+	
+	
 }
